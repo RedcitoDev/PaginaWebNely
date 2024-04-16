@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client'
 import Root from "./routes/root"
 import Contact from "./routes/contact"
 import Index from "./routes/index"
+import Terminos from "./routes/terminos"
+import Hoteles from "./routes/hoteles"
+import Ofertas from "./routes/ofertas"
 import './index.css'
 import {
   createBrowserRouter,
@@ -23,6 +26,18 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Index />,
+      },
+      {
+        path: "terminos",
+        element: <Terminos />,
+      },
+      {
+        path: "hoteles",
+        element: <Hoteles />,
+      },
+      {
+        path: "ofertas",
+        element: <Ofertas />,
       },
     ],
   },

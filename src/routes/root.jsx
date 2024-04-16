@@ -30,14 +30,14 @@ export default function Root() {
                         <details>
                         <summary className="hover:underline hover:font-medium">Destinos</summary>
                         <ul className="p-2 bg-white rounded-none w-[190px] rounded-b-2xl">
-                            <li><a href={`/cancun`}><TreePalm size={20} color="#4460EF" /> Cancún</a></li>
-                            <li><a href={`/rivieramaya`}><TreePalm size={20} color="#4460EF" /> Riviera Maya</a></li>
-                            <li><a href={`/loscabos`}><TreePalm size={20} color="#4460EF" /> Los Cabos</a></li>
-                            <li><a href={`/puertovallarta`}><TreePalm size={20} color="#4460EF" /> Puerto Vallarta</a></li>
-                            <li><a href={`/mazatlan`}><TreePalm size={20} color="#4460EF" /> Mazatlán</a></li>
-                            <li><a href={`/ixtapa`}><TreePalm size={20} color="#4460EF" /> Ixtapa Zihuatanejo</a></li>
-                            <li><a href={`/acapulco`}><TreePalm size={20} color="#4460EF" /> Acapulco</a></li>
-                            <li><a href={`/huatulco`}><TreePalm size={20} color="#4460EF" /> Huatulco</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Cancún</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Riviera Maya</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Los Cabos</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Puerto Vallarta</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Mazatlán</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Ixtapa Zihuatanejo</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Acapulco</a></li>
+                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Huatulco</a></li>
                         </ul>
                         </details>
                     </li>

@@ -5,14 +5,13 @@ export default function Example() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto grid max-w-2xl grid-cols-1">
           <div className="max-w-xl lg:max-w-lg">
-            <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">Subscribe to our newsletter.</h2>
+            <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">¿Buscas alguna promocion?.</h2>
             <p className="mt-4 text-lg leading-8 text-gray-300">
-              Nostrud amet eu ullamco nisi aute in ad minim nostrud adipisicing velit quis. Duis tempor incididunt
-              dolore.
+              Nosotros te podemos ayudar, ya sea que te contactes por los medios indicados, o nos dejes tu correo electronico para contactarte.
             </p>
             <div className="mt-6 flex gap-x-4">
               <label htmlFor="email-address" className="sr-only">
-                Email address
+                Correo Electronico
               </label>
               <input
                 id="email-address"
@@ -27,7 +26,7 @@ export default function Example() {
                 type="submit"
                 className="flex-none rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
               >
-                Subscribe
+                Guardar
               </button>
             </div>
           </div>

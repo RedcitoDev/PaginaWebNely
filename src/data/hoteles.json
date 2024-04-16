@@ -1,0 +1,1665 @@
+{
+    "destinos": [
+        {
+            "nombre": "cancun",
+            "nombre2": "Cancún",
+            "descripcion": "Cancún, ubicado en la península de Yucatán en México, es famoso por sus impresionantes playas de arena blanca y aguas cristalinas del Mar Caribe. ",
+            "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "hoteles": [
+              {
+                      "nombre": "Paradisus Cancun All Inclusive",
+                      "nombre2": "Paradisus Cancún All Inclusive",
+                      "precio": "$28,039.00",
+                      "habitacion1": "Habitación Júnior con Vista al Lago",
+                      "habitacion2": "Habitación Individual Júnior con Vista al Lago",
+                      "habitacion3": "Suite Júnior con Vista al Mar",
+                      "habitacion4": "Suite Individual Júnior con Vista al Mar",
+                      "habitacion5": "Suite Luxury con Vista al Mar",
+                      "descripcion": "Con un diseño arquitectónico impresionante",
+                      "descripcion2": "Paradisus Cancun All Inclusive es un lujoso resort ubicado en Cancún, México, que ofrece una experiencia única de hospedaje todo incluido. Con un diseño arquitectónico impresionante y una ubicación privilegiada frente al mar Caribe, este resort es conocido por sus instalaciones de primera clase y servicios exclusivos.",
+                      "url": "https://media.staticontent.com/media/pictures/e2a48354-2689-4dd0-adf3-2fb52db880a1/1120x592?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+                      "galeria": [
+                        {
+                            "img-1": "https://www.paradisuscancun.com/images/slides/slide-93.jpg",
+                            "img-2": "https://images.trvl-media.com/lodging/1000000/530000/525800/525789/21b9a201.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                            "img-3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGngPB8LI3Q_ftWpRK38R4k8CcuiNOx-gNQ&usqp=CAU",
+                            "img-4": "https://www.cancunhotelsmexico.com/data/Images/OriginalPhoto/12735/1273540/1273540228/image-cancun-paradisus-hotel-26.JPEG",
+                            "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337953155.jpg?k=f6e64e3900301654ec41730a16c04c4ab575deb080372c9a90803f4637c85e52&o=&hp=1",
+                            "img-6": "https://images.trvl-media.com/lodging/18000000/17320000/17310800/17310768/eb197491.jpg?impolicy=fcrop&w=469&h=201&p=1&q=medium",
+                            "img-7": "https://www.paradisuscancun.com/images/gallery/gallery-3.jpg",
+                            "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTUgV67QNWMloF0ysbU_1Na1ycaeCz5raSg&usqp=CAU",
+                            "img-9": "https://cdn5.travelconline.com/unsafe/fit-in/2000x0/filters:quality(75):format(webp)/https%3A%2F%2Fi.travelapi.com%2Flodging%2F1000000%2F530000%2F525800%2F525789%2F55e3bfd7_z.jpg"
+                        }
+                    ]                  
+              },              
+              {
+                  "nombre": "Emporio Cancun",
+                  "nombre2": "Emporio Cancún",
+                  "precio": "$18,397.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Experiencia de lujo en Cancún",
+                  "descripcion2": "Emporio Cancun es un elegante resort ubicado en Cancún, México, que ofrece una experiencia única de hospedaje. Con una ubicación privilegiada y servicios de clase mundial, es la elección perfecta para aquellos que buscan lujo y comodidad.",
+                  "url": "https://www.emporiocancun.com/images/gallery/gallery-3.jpg",
+                  "galeria": [
+                    {
+                        "img-1": "https://imageio.forbes.com/specials-images/imageserve/6155fdec86d88f2ac4ce3916/Hard-Rock-Hotel-Cancun-drone-shot-in-shape-of-guitar/960x0.jpg?format=jpg&width=960",
+                        "img-2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a2/a4/a6/hard-rock-hotel-cancun.jpg?w=700&h=-1&s=1",
+                        "img-3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/4a/c6/01/deluxe-family-suite.jpg?w=700&h=-1&s=1",
+                        "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14817114.jpg?k=6b8c79b6c0b1884cee5993c97f570a47623d427b346b7df9df8bf6b11c53e24b&o=&hp=1",
+                        "img-5": "https://www.hrcancunhotel.com/images/slides/slide-3.jpg",
+                        "img-6": "https://lh6.googleusercontent.com/qS7Rb3VVAOMluK3U6gOhpdTfoxeS_g7Sajt1plyu0M1a6nnbggfQPGXDmOIiVJRY1wv0AjhIoiI-ITyCf03hb3sNyCnCQorSftcX05vf_aXsPhxBlvHFF81myXyJ3wnhmOPUWx_QxZ5Vif74NQ",
+                        "img-7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGCs5t_LWWxVBcflxPVWnHwzQW87IAXOnSw&usqp=CAU",
+                        "img-8": "https://img.cdnpth.com/media/Ox5OH7yfT9u4f_UAO4NZW6jgxbE=/720x480/05/11/62/05116243.jpg",
+                        "img-9": "https://storage.googleapis.com/cloudaio/images/hotel/78d17cc2-bd87-4361-94a4-28511b295744/8785/4.jpg"
+                    }
+                ]              
+                },    
+                
+                {
+                  "nombre": "Hard Rock Hotel Cancun",
+                  "nombre2": "Hard Rock Hotel Cancún",
+                  "precio": "$58,683.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Experiencia de lujo en Cancún",
+                  "descripcion2": "Hard Rock Hotel Cancun ofrece una experiencia de hospedaje de lujo en el corazón de Cancún, México. Con su estilo característico, este resort es conocido por combinar el glamour y la comodidad, brindando a los huéspedes una estancia inolvidable. Desde habitaciones elegantes hasta opciones gastronómicas de primera clase y entretenimiento emocionante, Hard Rock Hotel Cancun es ideal tanto para parejas en busca de romance como para familias que buscan diversión.",
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/2f/da/9a/hrhcancun-exterior.jpg",
+                  "galeria": [
+                    {
+                        "img-1": "https://thumbcdn-4.hotelurbano.net/LED-wIt-MyJMbyZN_9EspHOkHKw=/900x600/center/middle/http://media.omnibees.com/Images/10646/Property/941448.jpg",
+                        "img-2": "https://www.tripnow.mx/adminreservas/upload/galeria_hotel/8edec8e008a71a3b72dfef7efe68a25d-20-09-2023-hoteles-en-la-zona-hotelera-cancun-emporio-cancun-vista-tripnow-mx-800px-380px.jpg",
+                        "img-3": "https://images.trvl-media.com/lodging/1000000/580000/571400/571397/4355dd3b.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                        "img-4": "https://emporio-suites.hotels-quintanaroo.com/data/Photos/OriginalPhoto/12735/1273575/1273575283.JPEG",
+                        "img-5": "https://www.tododemosaico.com/wp-content/uploads/2022/09/LEGACYROOM-CUN-800X800.jpg?v=1662589561",
+                        "img-6": "https://hotelesemporio.com/wp-content/uploads/2021/10/WETBAR-CUN-2-800X800.jpg",
+                        "img-7": "https://emporio-cancun.com/wp-content/uploads/2023/10/CANCUN.jpg?id=code2514",
+                        "img-8": "https://content.r9cdn.net/rimg/himg/67/ca/dc/expediav2-71307-644f25-643721.jpg?width=500&height=350&xhint=520&yhint=332&crop=true",
+                        "img-9": "https://images.stayforlong.com/eyJidWNrZXQiOiJob3RlbG1lZGlhLnN0YXlmb3Jsb25nLmNvbSIsImtleSI6InJhdy84MGEwLzgwYTBlY2ZlNzVmY2U4ODAtMjkxOTkuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo3NjcsImZpdCI6ImNvdmVyIn19fQ=="
+                    }
+                ]              
+                }, 
+                {
+                  "nombre": "Grand Park Royal Cancun",
+                  "nombre2": "Grand Park Royal Cancún",
+                  "precio": "$51,490.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior con Jacuzzi",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Habitación Deluxe Todo Incluido",
+                  "habitacion5": "Habitación Familiar con Balcón",
+                  "descripcion": "Experiencia frente al Caribe",
+                  "descripcion2": "Grand Park Royal Cancun es un exclusivo resort ubicado en la hermosa playa de Cancún, México. Ofrece una experiencia de lujo y comodidad, con instalaciones de primer nivel y una ubicación privilegiada frente al mar Caribe.",
+                  "url": "https://www.hotelescancun.mx/wp-content/uploads/2023/02/grand-park-royal-cancun-todo-incluido.jpg",
+                  "galeria": [
+                    {
+                        "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420684128.jpg?k=ad7c22193f0fd589a665f9929ed0138d6e9f861f7c4863efcc9588662c9acdc1&o=&hp=1",
+                        "img-2": "https://media.staticontent.com/media/pictures/20594430-fead-47a9-af02-b5895d9e5159/1120x592?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+                        "img-3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/5b/9b/bd/grand-park-royal-cancun.jpg?w=700&h=-1&s=1",
+                        "img-4": "https://img.cdnpth.com/media/jiOlaewgBkm3NaIaDIveaBVXzp8=/720x480/04/82/00/04820016.jpg",
+                        "img-5": "https://toddlingtraveler.com/wp-content/uploads/2020/02/img_2378.jpg",
+                        "img-6": "https://ganar-ganar.mx/wp-content/uploads/2020/03/parkroyal.jpg",
+                        "img-7": "https://transfers-plus.com/en/wp-content/uploads/2021/12/Grand-Park-Royal-Cancun-hotel-1.jpg",
+                        "img-8": "https://www.caribbeanportals.com/wp-content/uploads/2020/08/Grand-Park-Royal-Cancun-4.jpg",
+                        "img-9": "https://media.staticontent.com/media/pictures/f8574596-27fe-413b-a240-1a389c084a96/1120x592?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1"
+                    }
+                ]              
+                },                        
+                {
+                  "nombre": "Moon Palace Cancun",
+                  "nombre2": "Moon Palace Cancún",
+                  "precio": "$38,388.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Jardín",
+                  "habitacion2": "Suite Junior con Vista al Mar",
+                  "habitacion3": "Habitación Nizuc",
+                  "habitacion4": "Suite Golf con Vista al Campo de Golf",
+                  "habitacion5": "Suite Presidencial",
+                  "descripcion": "Experiencia de lujo en Cancún",
+                  "descripcion2": "Moon Palace Cancún es un lujoso resort todo incluido ubicado en la hermosa zona de Cancún, México. Ofrece una experiencia inigualable con sus amplias habitaciones, impresionantes vistas y una variedad de servicios de primera clase.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336135768.jpg?k=1a5d570699c419f3a56c2ab13a716994524e57d2c42a94a9d8b89d9fccde611c&o=&hp=1",
+                  "galeria": [
+                    {
+                        "img-1": "https://noticaribe.com.mx/wp/wp-content/uploads/2020/03/aerial-photography-v13265971-nw-2000.jpg",
+                        "img-2": "https://moon-palace-golf-spa-resort.hotels-quintanaroo.com/data/Photos/OriginalPhoto/14323/1432304/1432304434.JPEG",
+                        "img-3": "https://i0.wp.com/cancunmio.com/wp-content/uploads/2012/07/Moon-palace.jpg",
+                        "img-4": "https://www.atrapalo.com.mx/hoteles/picture/s/14282/7/3/431292744.jpg",
+                        "img-5": "https://www.keytotheworldtravel.com/wp-content/uploads/2021/03/IMG_0049-1.jpg",
+                        "img-6": "https://goingluxury.com/wp-content/uploads/2015/09/11895022_1146240748725975_2686702918568241953_o.jpg",
+                        "img-7": "https://www.cancunmx-hotels.com/data/Photos/OriginalPhoto/14323/1432303/1432303465.JPEG",
+                        "img-8": "https://thegrand.moonpalace.com/thg_Unique_0003_restaurantes_carouselcenter_2160x1080px_2effb9b9bf.jpg",
+                        "img-9": "https://www.cancunhotelsmexico.com/data/Pics/OriginalPhoto/7509/750908/750908813/pic-hotel-the-grand-at-moon-palace-cancun-2.JPEG"
+                    }
+                ]              
+                },                        
+                {
+                  "nombre": "The Westin Lagunamar Ocean Resort",
+                  "nombre2": "The Westin Lagunamar Ocean Resort",
+                  "precio": "$30,618.00",
+                  "habitacion1": "Estudio con Vista al Océano",
+                  "habitacion2": "Suite de Lujo con Vista al Mar",
+                  "habitacion3": "Suite de Dos Habitaciones con Cocina",
+                  "habitacion4": "Villa de Dos Habitaciones",
+                  "habitacion5": "Villa Presidencial",
+                  "descripcion": "Exclusividad frente al mar en Cancún",
+                  "descripcion2": "The Westin Lagunamar Ocean Resort es un exclusivo resort ubicado en Cancún, México. Ofrece habitaciones y suites elegantes con vistas impresionantes al océano, y sus servicios de clase mundial garantizan una estancia inolvidable.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469616547.jpg?k=bb95a40fdbe70657bd72fae53a117d3c8424a9e8fdd3be7c1e6c576242a9730e&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://westin.marriott.com/wp-content/uploads/2018/04/128432_pano.jpg",
+                      "img-2": "https://www.cancunhotelsmexico.com/data/Images/OriginalPhoto/14145/1414541/1414541207/image-cancun-westin-lagunamar-ocean-resort-3.JPEG",
+                      "img-3": "https://s7d1.scene7.com/is/image/marriotts7prod/wv-cunwl-oceanfront-studio-39432:Classic-Hor?wid=1336&fit=constrain",
+                      "img-4": "https://cdn0.bodas.com.mx/vendor/5350/3_2/960/png/vista-del-hotel.webp",
+                      "img-5": "https://www.fidelityrealestate.com/wp-content/uploads/2020/10/Westin-Lagunamar-Ocean-Resort-Aerial-1170x785.jpg",
+                      "img-6": "https://cache.marriott.com/content/dam/marriott-renditions/CUNWL/cunwl-lobby-2429-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1215px:*",
+                      "img-7": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/a5/b2/86/caption.jpg",
+                      "img-8": "https://img.resemmedia.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci84ZmI3YzExYi1lNjVlLTM3ZmUtOTRiMC04OWQ2YTMwYTExMjIvYzE4NzNiMTc0NWFkYmE2M2JlZjVlY2RkZTQyM2FhNTliYTllOWIzMzJkMTA1NzI0NjRiNjJjYjhlYjliYTY4OC5qcGVnIiwiYnJhbmQiOiJSRVNFTSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODQwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+                      "img-9": "https://www.atrapalo.com.mx/hoteles/picture/l/1702/2/4/12257684.jpg"
+                  }
+                  ]
+                }                     
+            ],
+            "descripcion1": "Vive el paraíso en Cancún",
+            "descripcion2": "Disfruta del Caribe Mexicano y su vibrante vida nocturna",
+            "descripcion3": "Cancún, famoso por sus playas de arena blanca y aguas cristalinas, es un destino turístico de clase mundial. Además de sus resorts de lujo, la ciudad ofrece una animada vida nocturna, una rica escena cultural y una ubicación estratégica para explorar la antigua civilización maya."
+          },
+        {
+            "nombre": "riviera-maya",
+            "nombre2": "Riviera Maya",
+            "descripcion": "Conocida por sus playas de arena blanca, aguas turquesas y arrecifes de coral, la Riviera Maya es un destino paradisíaco que ofrece una combinación única de belleza natural.",
+            "image": "https://www.delphinusworld.com/hubfs/Portada_Riviera%20Maya.jpg",
+            "hoteles": [
+              {
+                  "nombre": "Barcelo Maya Palace",
+                  "nombre2": "Barceló Maya Palace",
+                  "precio": "$28,336.00",
+                  "habitacion1": "Suite Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior Familiar",
+                  "habitacion3": "Suite Familiar Superior",
+                  "habitacion4": "Habitación Deluxe - Solo Adultos",
+                  "habitacion5": "Presidential Suite",
+                  "descripcion": "Experiencia de lujo en la Riviera Maya",
+                  "descripcion2": "Barcelo Maya Palace, también conocido como Barceló Maya Palace, es un lujoso resort ubicado en la Riviera Maya, México. Ofrece una experiencia de alojamiento excepcional con suites elegantes y servicios de primera clase en un entorno paradisíaco frente al mar Caribe.",
+                  "url": "https://www.caribbeanportals.com/wp-content/uploads/2020/10/barcelo-maya-palace.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.playadelcarmen.com/uploads/hotel-header-images/258279.jpg",
+                      "img-2": "https://ak-d.tripcdn.com/images/220d1a0000018tkfu74F7_R_800_525.jpg",
+                      "img-3": "https://www.mayapalaceresort.com/images/slides/slide-23.jpg",
+                      "img-4": "https://www.luketravels.com/barcelo-maya-palace/201411/photos-001/luketravelsDSC01781.jpg",
+                      "img-5": "https://www.godreamvacations.com/heroes/pool-aerial-barcelo-maya-palace-deluxe-riviera-maya-mexico-crop.jpg",
+                      "img-6": "https://d363suj4pdptk4.cloudfront.net/externalApps/b4327255-bda1-4003-b27c-e8196c8a5cc1/conversion/slide/assets/35945",
+                      "img-7": "https://gotocancun.com/wp-content/uploads/2023/02/HOTEL-BARCELO-MAYA-PALACE-JACCUSSI.jpg",
+                      "img-8": "https://www.kayak.es/rimg/himg/43/22/8b/ice-6989-69939119_3XL-042446.jpg?width=1366&height=768&crop=true",
+                      "img-9": "https://cdn.precioyviajes.com/02/09/91/02099118_gp.jpg"
+                  }
+                  ]
+                },                          
+                {
+                  "nombre": "Nickelodeon Hotels & Resorts Riviera Maya By Karisma",
+                  "nombre2": "Nickelodeon Hotels & Resorts Riviera Maya By Karisma",
+                  "precio": "$74,096.00",
+                  "habitacion1": "Pad Suite con Vista al Mar",
+                  "habitacion2": "Flat Suite con Piscina",
+                  "habitacion3": "Swim-Up Pad Suite",
+                  "habitacion4": "Pad Suite - Solo Adultos",
+                  "habitacion5": "The Pineapple",
+                  "descripcion": "Experiencia de lujo junto al mar",
+                  "descripcion2": "Nickelodeon Hotels & Resorts Riviera Maya By Karisma es un exclusivo resort ubicado en la Riviera Maya, México. Ofrece una experiencia única de alojamiento con suites temáticas, comodidades de lujo y entretenimiento inspirado en los personajes de Nickelodeon.",
+                  "url": "https://nitu.mx/wp-content/uploads/2017/07/Nickelodeon-Grupo-Lomas-Travel.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://jaliscoadventours.com.mx/wp-content/uploads/2021/02/Nickelodeon.jpg",
+                      "img-2": "https://optimise2.assets-servd.host/water-tech/production/projects/AquaNick_MainHero_1300x580.jpg?w=1300&h=580&auto=compress%2Cformat&fit=crop&dm=1641838752&s=537921a1c249cd86441e853d0db34cdf",
+                      "img-3": "https://3.bp.blogspot.com/-kiYA1kEryu4/Vm8gRzV4QJI/AAAAAAAAjLU/81JxIpumDAs/s1600/Nickelodeon-Hotels-And-Resorts-Punta-Cana-Jacuzzi-Pad-Room-Rendering-Karisma-Nick-Viacom-International-Media-Networks-Press.jpg",
+                      "img-4": "https://periodicolafuente.com/wp-content/uploads/2020/07/00-177.jpg",
+                      "img-5": "https://www.innovaviajes.com.mx/wp-content/uploads/2021/04/anick2.jpg",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424957320.jpg?k=23752c1de6ec0f23bb0a674894351cfb75d4d45b4c1cd503e6e8fd87accd4380&o=&hp=1",
+                      "img-7": "https://strapi.globalagents.net/uploads/fc1b8e2a3e48c07c7b8e717593a06f70_c93e420d68.jpg",
+                      "img-8": "https://q-xx.bstatic.com/xdata/images/hotel/max500/424957396.jpg?k=79e98c3bdab1212c6fc66f431643e9207bcca298677bd890a1cb4ea739a112ff&o=",
+                      "img-9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebaE_fVoa3ium3r0oHvTZxX_XWYUlQD7Zkgh2SZEyb8tCepGkPqUX8feLq0AS-eeYJm8&usqp=CAU"
+                  }
+                  ]
+                },                        
+                {
+                  "nombre": "Royalton Splash Riviera Cancun All Inclusive Resort",
+                  "nombre2": "Royalton Splash Riviera Cancún All Inclusive Resort",
+                  "precio": "$34,130.00",
+                  "habitacion1": "Habitación Estándar con Vista al Jardín",
+                  "habitacion2": "Habitación Familiar con Acceso a la Piscina",
+                  "habitacion3": "Suite Junior con Vista al Mar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Diamond Club",
+                  "descripcion": "Experimenta la exclusividad en la Riviera Maya",
+                  "descripcion2": "Royalton Splash Riviera Cancun All Inclusive Resort es un exclusivo resort ubicado en la Riviera Maya, México. Ofrece una experiencia todo incluido con habitaciones elegantes, diversas opciones gastronómicas y emocionantes actividades para toda la familia.",
+                  "url": "https://marriott.cdn.tambourine.com/royalton-resorts/media/rsrc2022-23-63a1dce14f877-optimized.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://marriott.cdn.tambourine.com/royalton-resorts/media/rsrc2022-23-63a1dce14f877-optimized.jpg",
+                      "img-2": "https://pasilloturistico.com/wp-content/uploads/2022/12/autoCUNSR.1166258.jpg",
+                      "img-3": "https://marriott.cdn.tambourine.com/royalton-resorts/media/rsrc2022-23-63a1dce14f877-optimized.jpg",
+                      "img-4": "https://www.cancunhotelsmexico.com/data/Pics/OriginalPhoto/14215/1421501/1421501592/pic-cancun-4.JPEG",
+                      "img-5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsq9h6fl6MdaADvndLt6FyE7KWq_JwxWU8gg&usqp=CAU",
+                      "img-6": "https://images.trvl-media.com/lodging/79000000/78630000/78626200/78626183/e0788a12.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-7": "https://cdn.tui.be/img/static/im1000/23200/23242/23242V.JPG",
+                      "img-8": "https://assets-global.website-files.com/645cf73a1399f9f6ed09a0e8/645cf73a1399f9f71409b7d9_Highlight-6-RIV-Royalton-Splash-Riviera-Cancun.jpg",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360615860.jpg?k=ed04534803ad02794f4929bfbc96c51e6e4001d18d00b400f4749fd3e938349f&o=&hp=1"
+                  }
+                  ]
+                },                            
+                {
+                  "nombre": "Dreams Tulum Resort & Spa",
+                  "nombre2": "Dreams Tulum Resort & Spa",
+                  "precio": "$29,610.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Jardín",
+                  "habitacion2": "Suite Junior con Terraza",
+                  "habitacion3": "Habitación Preferred Club con Vista al Mar",
+                  "habitacion4": "Suite Master con Piscina Privada",
+                  "habitacion5": "Habitación Familiar Deluxe",
+                  "descripcion": "Desde relajarse en la piscina o en el spa hasta participar en deportes acuáticos y excursiones culturales",
+                  "descripcion2": "Dreams Tulum Resort & Spa es un encantador resort ubicado en Tulum, México. Ofrece una experiencia de lujo con habitaciones elegantes, restaurantes gourmet, un spa rejuvenecedor y acceso directo a las hermosas playas de la Riviera Maya.",
+                  "url": "https://escapadas.mexicodesconocido.com.mx/wp-content/uploads/2020/10/tulum-hotel-dreams-tulum-quintana-roo.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/133874834.jpg?k=d1a9d320522c02cb2b35eae7b5496e8f623535c8c315f4bfd39e56b076db967e&o=&hp=1",
+                      "img-2": "https://static11.com-hotel.com/uploads/hotel/52427/photo/dreams-tulum-resort-spa-all-inclusive_155270904814.jpg",
+                      "img-3": "https://images.trvl-media.com/lodging/18000000/17460000/17456900/17456830/1f887ca3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-4": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/1004_dreams_tulum_resort_and_spa_55_P.jpg",
+                      "img-5": "https://dreams-tulum-resort-spa.tulumtownhotels.com/data/Images/OriginalPhoto/14365/1436543/1436543575/image-tulum-dreams-tulum-resort-spa-16.JPEG",
+                      "img-6": "https://dreams-tulum-resort-spa.hotels-quintanaroo.com/data/Images/OriginalPhoto/12649/1264909/1264909171/image-tulum-dreams-tulum-resort-spa-21.JPEG",
+                      "img-7": "https://storage.googleapis.com/cloudaio/images/hotel/64ca0e06-91bd-4120-99cb-4b5144b9134a/9054/DRETU_4255J4.jpg",
+                      "img-8": "https://goingluxury.com/wp-content/uploads/2017/06/dreams-tulum-resort-lg.jpg",
+                      "img-9": "https://www.travelreport.mx/wp-content/uploads/2022/10/dreams-tulum-resort-spa-3.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Sandos Caracol Eco Resort - All Inclusive",
+                  "nombre2": "Sandos Caracol Eco Resort - All Inclusive",
+                  "precio": "$20,433.00",
+                  "habitacion1": "Habitación Estándar con Vista al Jardín",
+                  "habitacion2": "Suite Junior con Jacuzzi",
+                  "habitacion3": "Suite Select Club con Acceso a la Piscina Privada",
+                  "habitacion4": "Suite Familiar con Dos Habitaciones",
+                  "habitacion5": "Suite Laguna con Terraza Privada",
+                  "descripcion": "Resort ecológico todo incluido",
+                  "descripcion2": "Sandos Caracol Eco Resort es un resort todo incluido ubicado en Playa del Carmen, México. Ofrece una experiencia única con su enfoque ecológico, parque acuático, actividades para toda la familia y acceso directo a la playa.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/40/69/e5/sandos-caracol-eco-resort.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.sandoscaracolresorts.com/images/slides/slide-53.jpg",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128514180.jpg?k=a17d7cf2e906f6e119f4aa6499a0f26fe271c2076e85ee0dd0f5fe5fc5a7179f&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/57705068.jpg?k=db90072f093f96c9707be59c7a4006f85f0fd87ef3f681ef56452f2a66c56b1d&o=&hp=1",
+                      "img-4": "https://www.sandoscaracolresorts.com/images/slides/slide-55.jpg",
+                      "img-5": "https://x.cdrst.com/foto/hotel-sf/11cdf/granderesp/sandos-caracol-eco-resort-all-inclusive-restauracion-f9a1a1e.jpg",
+                      "img-6": "https://www.cheerstravel.com.br/media/c:centered/w:1280/h:638/d/e/b/aaa389dc369d6fd25e727191a26ad.jpg",
+                      "img-7": "https://sandoscaracolonly.therivieramayahotels.com/data/Pics/OriginalPhoto/12735/1273588/1273588579/pic-sandos-caracol-eco-resort-playa-del-carmen-22.JPEG",
+                      "img-8": "https://sandos-caracol-eco-resort.hotels-quintanaroo.com/data/Pics/OriginalPhoto/12735/1273587/1273587835/pic-sandos-caracol-eco-resort-playa-del-carmen-10.JPEG",
+                      "img-9": "https://activetravelpro.com/wp-content/uploads/2023/03/thumbnail_IMG_1943-1024x768.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Riu Palace Riviera Maya",
+                  "nombre2": "Riu Palace Riviera Maya",
+                  "precio": "$38,269.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Experiencia de lujo en la Riviera Maya",
+                  "descripcion2": "Riu Palace Riviera Maya es un magnífico resort ubicado en la hermosa Riviera Maya, México. Ofrece una experiencia única con habitaciones elegantes, diversas opciones gastronómicas y actividades emocionantes. Disfruta de la hospitalidad y el lujo en un entorno paradisíaco.",
+                  "url": "https://www.riu.com/blog/wp-content/uploads/2019/12/riu-palace-riviera-maya.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433915144.jpg?k=324c00a6fc4327dbeed618c825986de489a054fa7fc30621c50cfe4c1f76dfdc&o=&hp=1",
+                      "img-2": "https://www.riurivieramaya.com/images/slides/slide-40.jpg",
+                      "img-3": "https://cimg2.ibsrv.net/cimg/www.fodors.com/768x512_60/538/HotelHERO-1-345538.jpg",
+                      "img-4": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/66/47/ef/hotel-riu-palace-riviera.jpg",
+                      "img-5": "https://www.riupalacemexicoresort.com/images/slides/slide-28.jpg",
+                      "img-6": "https://www.riu.com/es/binaris/hotel-riu-riviera-maya-6_tcm49-231449.jpg?v=tm220120_1600",
+                      "img-7": "https://d363suj4pdptk4.cloudfront.net/externalApps/b4327255-bda1-4003-b27c-e8196c8a5cc1/conversion/slide/assets/898147",
+                      "img-8": "https://www.riu.com/images/hotels/2854.jpg",
+                      "img-9": "https://www.riu.com/en/binaris/recepcion-hotel-riu-palace-mexico_tcm55-200486.jpg?v=tm270120_1606"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Grand Riviera Princess",
+                  "nombre2": "Grand Riviera Princess",
+                  "precio": "$24,392.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Experiencia de lujo en la Riviera Maya",
+                  "descripcion2": "Grand Riviera Princes es un magnífico resort ubicado en la hermosa Riviera Maya, México. Ofrece una experiencia única con habitaciones elegantes, diversas opciones gastronómicas y actividades emocionantes. Disfruta de la hospitalidad y el lujo en un entorno paradisíaco.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52180000.jpg?k=67f77ca56f3f00ee2ede16904dc6a3f839d511a19ae6a8837deacd316dbe2168&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://playadelcarmen.com/uploads/hotel-header-images/313199.jpg",
+                      "img-2": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/quintanaroo/01GeneralView_85BBB6C1-9B8A-463E-BDF668788DF0549C_32bd2b99-cd31-4aa9-8c3985526aff1c72.jpg",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304824101.jpg?k=485f87a9c7910dcd0af9a58ed0f00b1ab18bdd9b7d0eb764de8cee9ee51256fe&o=&hp=1",
+                      "img-4": "https://www.princess-hotels.com/wp-content/blogs.dir/1738/files/grand-riviera-princess-interiores//mobile-Hotel-Grand-Riviera-platinum-suite.jpg",
+                      "img-5": "https://viajesbuenaventura.com.mx/wp-content/uploads/2021/10/x-1024x565.jpg",
+                      "img-6": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRavEe4GBsV_54eVVp9IFotk_RRtBIW9nK9fHd_xok8sV05kJ6xUsCcwK6tKnMM1Bhx4&usqp=CAU",
+                      "img-7": "https://images.squarespace-cdn.com/content/v1/5e63de36184b191cd436ac54/1589302480356-0S9O3RPUQCAEYPHK7OXF/Karrpy_Hotel_Grand_Riviera_Princess_007.JPG",
+                      "img-8": "https://y.cdrst.com/foto/hotel-sf/d3a6/granderesp/grand-riviera-princess-all-inclusive-zonasnobles-c5c4b72.jpg",
+                      "img-9": "https://www.princess-hotels.com/wp-content/blogs.dir/1738/files/grand-riviera-princess-home//grand-riviera-collage-hotel.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Fairmont Mayakoba",
+                  "nombre2": "Fairmont Mayakoba",
+                  "precio": "$37,007.00",
+                  "habitacion1": "Habitación Deluxe con Vista a la Laguna",
+                  "habitacion2": "Suite Junior con Piscina Privada",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Todo Incluido",
+                  "descripcion": "Experiencia de lujo en la Riviera Maya",
+                  "descripcion2": "Fairmont Mayakoba es un resort de lujo ubicado en la hermosa Riviera Maya, México. Ofrece una variedad de habitaciones elegantes, opciones gastronómicas exclusivas y un entorno natural impresionante. Sumérgete en el lujo y la comodidad en este paraíso tropical.",
+                  "url": "https://mayakoba.com/wp-content/uploads/2023/08/0635_230301_Fairmont.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.elegantgolfresorts.com/app/uploads/2019/07/Fairmont-Mayakoba7.jpg",
+                      "img-2": "https://theweddbook.com/wp-content/uploads/2023/03/Fairmont-Mayakoba-luna-de-miel-en-Fairmont-Mayakoba-016.jpg",
+                      "img-3": "https://assets.resortpass.com/uploads/image/picture/33804/width_1560_FairmontMayakoba_Pool7.jpg",
+                      "img-4": "https://mayakoba.com/wp-content/uploads/2023/08/0427_230226_Mayjana-Beach-Club.jpg",
+                      "img-5": "https://thehappening.com/wp-content/uploads/2022/12/sabrina-2022-12-15t171450625.jpg",
+                      "img-6": "https://z.cdrst.com/foto/hotel-sf/b2c4/granderesp/fairmont-mayakoba-habitacion-dcc2301.jpg",
+                      "img-7": "https://www.ahstatic.com/photos/a573_roq2aef_00_p_1024x768.jpg",
+                      "img-8": "https://proffetional.com/wp-content/uploads/beachfront-suite.jpg",
+                      "img-9": "https://damhyul3s75yv.cloudfront.net/photos/13275/original_Fairmont_Mayakoba_Review-Lobby_Bar.jpg"
+                  }
+                  ]
+                }              
+            ],
+            "descripcion1": "Sumérgete en la cultura maya",
+            "descripcion2": "Relájate en las hermosas playas de la Riviera Maya",
+            "descripcion3": "La Riviera Maya es una franja costera en la península de Yucatán, conocida por sus impresionantes ruinas arqueológicas, playas de arena blanca y aguas cristalinas. Desde las antiguas ciudades mayas hasta los arrecifes de coral, este destino ofrece una experiencia única que combina historia y belleza natural."
+        },
+        {
+            "nombre": "los-cabos",
+            "nombre2": "Los Cabos",
+            "descripcion": "Ubicado en el extremo sur de la península de Baja California en México, es un destino de ensueño conocido por sus impresionantes paisajes desérticos",
+            "image": "https://www.palaceresorts.com/pb_Mod_Dest_hero_3600x1800_LOS_CABOS_ad48ab5434.jpg",
+            "hoteles": [
+              {
+                  "nombre": "Hard Rock Los Cabos",
+                  "nombre2": "Hard Rock Los Cabos",
+                  "precio": "$78,074.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Rock Star con Piscina Privada",
+                  "habitacion3": "Habitación con Jacuzzi",
+                  "habitacion4": "Rock Suite Platinum con Dos Habitaciones",
+                  "habitacion5": "Presidential Suite",
+                  "descripcion": "Experiencia de lujo frente al mar en Los Cabos",
+                  "descripcion2": "Hard Rock Los Cabos es un resort de primera categoría ubicado en Los Cabos, México. Ofrece habitaciones lujosas con impresionantes vistas al mar, instalaciones de clase mundial y entretenimiento inigualable. Disfruta de la serenidad y el lujo en este destino excepcional.",
+                  "url": "https://www.hardrockhotels.com/los-cabos/es/files/6195/HRHLC_SERENADE_TERRACE_COCKTAIL_SETUP.jpeg",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.westjet.com/content/dam/westjet/images/hotels/sjd/sjdhr2-hard-rock-hotel-los-cabos/gallery/aerial-view.jpg",
+                      "img-2": "https://i0.wp.com/sinmordaza.com/wp-content/uploads/2019/11/HARD-ROCK-HOTEL-LOS-CABOS.jpg?fit=696%2C464&ssl=1",
+                      "img-3": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/All_TW_Art/2019/0729/T0729HRHSUITE_HR.jpg?tr=w-1200%2Cfo-auto",
+                      "img-4": "https://www.escapadah.com/u/fotografias/m/2023/8/16/f768x400-24904_68807_5050.png",
+                      "img-5": "https://stories.isu.pub/97629143/images/133_original_file_I0.jpg",
+                      "img-6": "https://www.trespm.mx/images/Imagenes/2022/ABRIL2022/21042022/hard1-21042022.jpg",
+                      "img-7": "https://storage.googleapis.com/cloudaio/images/hotel/167e7096-8649-4e35-b229-7c656b0266b0/17343/HRHLC_LOS_GALLOS_TERRACE.jpg",
+                      "img-8": "https://www.hardrockhotels.com/los-cabos/es/files/6195/16723849_ImageLargeWidth.jpg",
+                      "img-9": "https://hi-cdn.t-rp.co.uk/images/hotels/9631328/1?width=768&height=500&crop=true&quality=80"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Sandos Finisterra",
+                  "nombre2": "Sandos Finisterra",
+                  "precio": "$46,163.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior con Terraza",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Select Club",
+                  "descripcion": "Experiencia única frente al mar en Finisterra",
+                  "descripcion2": "Sandos Finisterra es un exclusivo resort ubicado en Los Cabos, México. Ofrece habitaciones elegantes con vistas espectaculares al mar, una amplia gama de servicios, restaurantes gourmet y acceso directo a la playa. Disfruta de una experiencia inolvidable en este paradisíaco destino.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c1/80/db/sandos-finisterra-los.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://spawellnessmexico.com/wp-content/uploads/2018/08/k2_items_src_5b62d01506bd8a53b6c4928e25fa9b8a.jpg",
+                      "img-2": "https://img.cdnpth.com/media/Bf_xJOO4sOkniky2EuLbxr8z1Wg=/720x480/02/18/74/02187421.jpg",
+                      "img-3": "https://en.marconfort.com/sites/default/files/styles/splash_image/public/images/Sandos_Finisterra_DonDiego_140.jpg?itok=7fk35YpW",
+                      "img-4": "https://www.familyvacationcritic.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/sites/19/2016/12/sandos-finisterra-los-1280x640.jpg.webp",
+                      "img-5": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/SANDOS-FINISTERRA-LOS-CABOS-20180726083125_P.jpg",
+                      "img-6": "https://storage.googleapis.com/cloudaio/images/hotel/af824335-0c1b-4502-83b4-060a95f14bfe/14705/Sandos_Finisterra_Finist_Suites_JrSuite_27.jpg",
+                      "img-7": "https://www.atrapalo.com.mx/hoteles/picture/l/1593/1/7/303770090.jpg",
+                      "img-8": "https://www.mexicantravelvip.com/media/restaurant/Tortuga-Beach.jpg",
+                      "img-9": "https://i.travelapi.com/lodging/1000000/540000/534800/534791/3bb2bb73_z.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Grand Fiesta Americana",
+                  "nombre2": "Grand Fiesta Americana",
+                  "precio": "$55,117.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Habitación Familiar",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Experiencia de lujo en la playa",
+                  "descripcion2": "Grand Fiesta Americana es un resort de lujo ubicado en una de las playas más hermosas. Con habitaciones elegantes, restaurantes gourmet y servicios exclusivos, ofrece una experiencia inolvidable para aquellos que buscan comodidad y estilo frente al mar.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351150113.jpg?k=6e373243957a9404e4ac0b0b8e1412132735c515b72974888c55b30bdabefef7&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://media.licdn.com/dms/image/C561BAQHoCfOL6h7jWg/company-background_10000/0/1584297812800?e=2147483647&v=beta&t=38jCg96NLvU5riI64sktYu-FepzOjqbYxy4ozp3SmZs",
+                      "img-2": "https://images.trvl-media.com/lodging/1000000/590000/580800/580752/7298bef4.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-3": "https://image-tc.galaxy.tf/wijpeg-3boac0cy113g1xnzsd2s2ywr6/blu5-foto-principal.jpg",
+                      "img-4": "https://cdn0.bodas.com.mx/vendor/0903/3_2/960/jpg/297584134-5962284480467657-1080643111719447093-n_5_110903-167535085925291.jpeg",
+                      "img-5": "https://lossaboresdemexico.com/wp-content/uploads/2023/03/Grand_Fiesta_Americana_Los_Cabos-11.jpeg",
+                      "img-6": "https://ecom-cvweb.s3-us-west-2.amazonaws.com/s3fs-public/styles/hotel_hero_image/public/gallery/FALC_259.jpg?itok=d38DZlyF",
+                      "img-7": "https://grand-fiesta-americana-los-cabos-all-inclusive-golf-spa.los-cabos-hotels.com/data/Images/OriginalPhoto/13074/1307487/1307487838/image-cabo-san-lucas-grand-fiesta-americana-all-inclusive-golf-spa-hotel-25.JPEG",
+                      "img-8": "https://www.timesharesonly.com/wp-content/uploads/2021/03/fiesta-americana-cabo-del-sol-balcony-view.jpg",
+                      "img-9": "https://d363suj4pdptk4.cloudfront.net/externalApps/b4327255-bda1-4003-b27c-e8196c8a5cc1/conversion/slide/assets/28454"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Marina Fiesta Resort & Spa",
+                  "nombre2": "Marina Fiesta Resort & Spa",
+                  "precio": "$19,361.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Puerto",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Estilo y confort junto al puerto",
+                  "descripcion2": "Marina Fiesta Resort & Spa es un encantador resort ubicado junto al puerto. Con habitaciones cómodas, opciones gastronómicas excepcionales y servicios de spa, ofrece una experiencia relajante y llena de estilo en el corazón de la acción.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/6a/8d/d0/marina-fiesta-resort.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.marinafiestaresort.com/images/sliders/header-location.jpg",
+                      "img-2": "https://storage.googleapis.com/cloudaio/images/hotel/62968a42-0af2-4b1b-a620-93d69292204e/10832/1.jpg",
+                      "img-3": "https://img.cdnpth.com/media/4Qpy0Q48yU3jpS57n_6hoqHYifs=/720x480/05/01/97/05019749.jpg",
+                      "img-4": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/MARINA-FIESTA-RESORT-AND-SPA-20180724145552_P.jpg",
+                      "img-5": "https://tdr.aaa.com/tdr-images/preview/180770",
+                      "img-6": "https://img.grouponcdn.com/deal/kNbSn6w3UyuxAanBkZda/os-960x582/v1/c870x524.jpg",
+                      "img-7": "https://images.trvl-media.com/lodging/1000000/790000/789800/789745/30aa1c15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-8": "https://images.trvl-media.com/lodging/1000000/790000/789800/789745/ac975875.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-9": "https://www.hotel-scoop.com/wp-content/uploads/2016/10/Marina-Fiesta-Junior-Grand-Luxe-Suite.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Pueblo Bonito Sunset Beach Resort & Spa",
+                  "nombre2": "Pueblo Bonito Sunset Beach Resort & Spa",
+                  "precio": "$57,310.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Exclusividad frente al atardecer",
+                  "descripcion2": "Pueblo Bonito Sunset Beach Resort & Spa es un resort exclusivo con vistas impresionantes al océano. Con suites de lujo, restaurantes gourmet y servicios de spa, ofrece una experiencia inolvidable en un entorno espectacular.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19958232.jpg?k=37302b05b08e413d79383d341a02082152dbee531a23d53063bbc3ef26e81863&o=&hp=1",
+                  "galeria": [
+                    {
+                        "img-1": "https://traveldreamsmagazine.com/wp-content/uploads/2022/10/pueblomazatlan.jpg",
+                        "img-2": "https://y.cdrst.com/foto/hotel-sf/12d0c/granderesp/foto-hotel-11a5c605.jpg",
+                        "img-3": "https://x.cdrst.com/foto/hotel-sf/12d0c/granderesp/foto-hotel-11a5c601.jpg",
+                        "img-4": "https://images.trvl-media.com/lodging/1000000/850000/843100/843082/1908c409.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                        "img-5": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/loscabosmx/Executive-Suite-6-_5BEDD0DF-5EA9-4966-942D9F3756D3AE75_cf67aca7-023f-48cd-a5fb8158ff998a9c.jpg",
+                        "img-6": "https://www.fidelityrealestate.com/wp-content/uploads/2020/11/Pueblo-Bonito-Sunset-Beach-Resort-and-Spa-Pool-1170x785.jpg",
+                        "img-7": "https://d1bb1mccaihlpl.cloudfront.net/variants/g3bywj4o890mjnhsz9h155aws65f/5495488087431af32265aaaaa1b8a274541d70555aa4d7c01d8d0fed27e7c152",
+                        "img-8": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/PBonito-LosCabos-Dining-Steakhouse-564ce85000b1f.jpg",
+                        "img-9": "https://static.logitravel.com/cloudcontent/fotos/agregadorHotelero/0025/74221/2574221/1.jpg?f=16640765"
+                    }
+                ]
+                
+                }              
+            ],
+            "descripcion1": "Experimenta el lujo en Los Cabos",
+            "descripcion2": "Disfruta del desierto y el Mar de Cortés",
+            "descripcion3": "Los Cabos, ubicado en la punta de la península de Baja California, es conocido por su impresionante paisaje desértico y sus playas espectaculares. Con sus lujosos resorts, campos de golf de clase mundial y actividades acuáticas emocionantes, ofrece una experiencia única en el Pacífico mexicano."
+        },
+        {
+            "nombre": "puerto-vallarta",
+            "nombre2": "Puerto Vallarta",
+            "descripcion": "Ubicado en la costa del Pacífico mexicano en el estado de Jalisco, es un encantador destino turístico conocido por su combinación de belleza natural,",
+            "image": "https://a.cdn-hotels.com/gdcs/production154/d1097/6780fc5b-f736-4433-ba3d-f2219ec1cec6.jpg",
+            "hoteles": [
+              {
+                  "nombre": "Krystal Vallarta Hotel & Resort",
+                  "nombre2": "Krystal Vallarta Hotel & Resort",
+                  "precio": "$16,149.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Habitación Familiar",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Experiencia costera relajante",
+                  "descripcion2": "Krystal Vallarta Hotel & Resort ofrece habitaciones cómodas y servicios de calidad frente al mar. Con una ubicación privilegiada, este resort brinda una experiencia relajante y acogedora para los huéspedes que buscan una escapada junto al océano.",
+                  "url": "https://krystalgrand-vallarta.com/assets/img/exterior/Krystal%20Grand%20Nuevo%20Vallarta.png",
+                  "galeria": [
+                    {
+                      "img-1": "https://x.cdrst.com/foto/hotel-sf/1a6aa/granderesp/krystal-grand-puerto-vallarta-all-inclusive-habitacion-11ac4731.jpg",
+                      "img-2": "https://www.krystalvallartaresort.com/images/slides/slide-1.jpg",
+                      "img-3": "https://gsf-hotels.com/corporativo/img/kpvr_03.jpg",
+                      "img-4": "https://media.staticontent.com/media/pictures/0c2e81e6-9fdd-4ed3-97fc-dec16b9b6e66",
+                      "img-5": "https://media.staticontent.com/media/pictures/1ea9264d-2634-4006-83df-53ba9c6b612c",
+                      "img-6": "https://media.staticontent.com/media/pictures/8d14240b-07a8-4757-a905-be32a2f90c43/1120x592?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+                      "img-7": "https://manoamano.s3.amazonaws.com/uploads/offer/image_1/15853/hotel-krystal-1-829ee0ad2f3cfa03.jpg",
+                      "img-8": "https://gsf-hotels.com/corporativo/img/hpvr_h_01.jpg",
+                      "img-9": "https://www.informador.mx/__export/1551581814123/sites/elinformador/img/2019/03/02/vallarta_copy_crop1551581302643.jpg_1902800913.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Melia Puerto Vallarta All Inclusive",
+                  "nombre2": "Meliá Puerto Vallarta All Inclusive",
+                  "precio": "$22,158.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Todo incluido en la playa",
+                  "descripcion2": "Meliá Puerto Vallarta All Inclusive ofrece una experiencia completa de todo incluido. Con habitaciones amplias y servicios de alta calidad, este resort es ideal para aquellos que desean disfrutar de unas vacaciones sin preocupaciones en la hermosa bahía de Puerto Vallarta.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/9587960.jpg?k=d6e0855b46d6a597162c5773bd5a85efebfccd2b1360f622e943c0a57283123f&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352901558.jpg?k=791eedd0308870dc7e2e9294703b2bd8b9e4ae98df14529acd2179f09c7d926a&o=&hp=1",
+                      "img-2": "https://photos.hotelbeds.com/giata/bigger/00/003918/003918a_hb_l_001.jpg",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352282295.jpg?k=2acb69e071c812f74dbf6485b15b62b26d0793db1b243cd944fde377229a4665&o=&hp=1",
+                      "img-4": "https://www.allinclusivist.com/storage/resized_images/5604_large.jpg",
+                      "img-5": "https://storage.googleapis.com/cloudaio/images/hotel/b78338df-431a-407f-8a4e-f0cf0b576676/20318/Screen_Shot_2019-03-25_at_2.07.14_PM.jpg",
+                      "img-6": "https://photos.hotelbeds.com/giata/bigger/00/003918/003918a_hb_p_026.jpg",
+                      "img-7": "https://melia-all-inclusive.puerto-vallartahotels.com/data/Pics/OriginalPhoto/12736/1273652/1273652593/melia-all-inclusive-hotel-puerto-vallarta-pic-4.JPEG",
+                      "img-8": "https://melia-all-inclusive.puerto-vallartahotels.com/data/Pics/OriginalPhoto/12736/1273650/1273650097/melia-all-inclusive-hotel-puerto-vallarta-pic-17.JPEG",
+                      "img-9": "https://img.cdnpth.com/media/WzIRaKPCo6HedGjPHuW9kzXZyM4=/720x480/05/02/49/05024922.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Hilton Vallarta Riviera - All Inclusive",
+                  "nombre2": "Hilton Vallarta Riviera - All Inclusive",
+                  "precio": "$43,026.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Océano",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Lujo y todo incluido frente al mar",
+                  "descripcion2": "Hilton Vallarta Riviera - All Inclusive combina lujo y comodidad en un entorno frente al mar. Con habitaciones elegantes y servicios todo incluido, este resort es perfecto para aquellos que buscan una experiencia exclusiva y relajante.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/02/1a/05/hilton-vallarta-riviera.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://z.cdrst.com/foto/hotel-sf/8792d/granderesp/hilton-vallarta-riviera-all-inclusive-resort-puerto-vallarta-general-c2d513c.jpg",
+                      "img-2": "https://assets.hiltonstatic.com/hilton-asset-cache/image/upload/c_fill,w_840,h_760,q_80,f_auto,g_auto/Imagery/Property%20Photography/Hilton%20Full%20Service/P/PVRPAHH/PVRPA_Guest_Room_Premium_Ocean_Front_Room_w__Jetted_Tub_King___K1DVO.jpg",
+                      "img-3": "https://img.cdnpth.com/media/_GpxTKoNjNYm_FycPuA81HamKZ8=/720x480/05/16/40/05164026.jpg",
+                      "img-4": "https://www.vallartarivieraresort.com/images/slides/slide-5.jpg",
+                      "img-5": "https://www.myoverseaswedding.com/wp-content/gallery/142308-overview/grand-fiesta-americana-puerto-vallarta-adults-only-wedding-venue-16.jpg",
+                      "img-6": "https://z.cdrst.com/foto/hotel-sf/8792d/granderesp/hilton-vallarta-riviera-all-inclusive-resort-puerto-vallarta-restauracion-c2d5160.jpg",
+                      "img-7": "https://photos.hotelbeds.com/giata/bigger/40/407778/407778a_hb_p_003.jpg",
+                      "img-8": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/02/18/72/hilton-vallarta-riviera.jpg?w=700&h=-1&s=1",
+                      "img-9": "https://fastly.4sqi.net/img/general/600x600/139775058_8NOng4E3LmZ3ZaaWOFWAw_OSh-C8z3ThNGE-FbD-Cac.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Flamingo Vallarta Hotel & Marina",
+                  "nombre2": "Flamingo Vallarta Hotel & Marina",
+                  "precio": "$13,853.00",
+                  "habitacion1": "Habitación Deluxe con Vista a la Marina",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Encanto junto a la marina",
+                  "descripcion2": "Flamingo Vallarta Hotel & Marina ofrece una experiencia encantadora junto a la marina. Con habitaciones cómodas y una ubicación única, este resort es ideal para aquellos que desean disfrutar de la tranquilidad y la belleza de la marina de Puerto Vallarta.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144782685.jpg?k=e3cfe00489b88c2bcedf8f0335e7367ca0e54dee40d60b7123ca857efe8e9441&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://flamingo-vallarta-marina.puerto-vallartahotels.com/data/Images/OriginalPhoto/12735/1273534/1273534750/image-puerto-vallarta-flamingo-vallarta-hotel-marina-7.JPEG",
+                      "img-2": "https://flamingo-vallarta-marina.puerto-vallartahotels.com/data/Images/OriginalPhoto/12735/1273535/1273535665/image-puerto-vallarta-flamingo-vallarta-hotel-marina-29.JPEG",
+                      "img-3": "https://flamingo-vallarta-marina.puerto-vallartahotels.com/data/Images/OriginalPhoto/12735/1273537/1273537036/image-puerto-vallarta-flamingo-vallarta-hotel-marina-18.JPEG",
+                      "img-4": "https://www.travelbymexico.com/jali/bk62291lgb/ancla.jpg",
+                      "img-5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPJ7ivNTGTMsm5AoKxjoRR0W_9YbfoOk9AA&usqp=CAU",
+                      "img-6": "https://cdn.mexicodestinos.com/hoteles/hotel-costa-club-punta-arena-fachada-princ-min.jpg",
+                      "img-7": "https://c.otcdn.com/imglib/roomfotos/8/107/flamingo-vallarta-hotel-marina-puerto-vallarta-20221209144942321500.jpg",
+                      "img-8": "https://www.flamingohotels.com/cache/d5/39/d5399c53ec5190994f0d2fe9d85b8934.jpg",
+                      "img-9": "https://www.flamingohotels.com/cache/1a/52/1a52b7c3dfe01ab17034674d13dd06f7.jpg"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Dreams Vallarta Bay Resort & Spa",
+                  "nombre2": "Dreams Vallarta Bay Resort & Spa",
+                  "precio": "$31,196.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Lujo y bienestar frente al océano",
+                  "descripcion2": "Dreams Vallarta Bay Resort & Spa ofrece un ambiente lujoso y relajante frente al océano. Con habitaciones amplias y servicios de spa, este resort es ideal para aquellos que buscan una experiencia rejuvenecedora en la hermosa bahía de Banderas.",
+                  "url": "https://y.cdrst.com/foto/hotel-sf/15485/granderesp/dreams-vallarta-bay-resorts-spa-all-inclusive-general-d9acc00.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295821136.jpg?k=cf065b050706000f58f2ee20c2a66d4eb9ce45a56f3649797de3c37d2088937e&o=&hp=1",
+                      "img-2": "https://images.trvl-media.com/lodging/5000000/4950000/4943600/4943508/a6a8fa7e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-3": "https://media.staticontent.com/media/pictures/0720b014-a385-4d02-b695-a617e6fab3e9",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257654575.jpg?k=c1fa57a0ecfae1f02e683dbdd50cb98915acf1b48f4ed1418e4ea7cc0229ae1c&o=&hp=1",
+                      "img-5": "https://photos.smugmug.com/Mexico/Puerto-Vallarta-2022/i-MkB8Gc4/0/2d000a97/L/PuertoVallarta017-L.jpg",
+                      "img-6": "https://www.bookthatescape.com/images/all_inclusive_media/82_photo_0.jpg",
+                      "img-7": "https://www.bookthatescape.com/images/all_inclusive_media/82_photo_0.jpg",
+                      "img-8": "https://now-amber.puerto-vallartahotels.com/data/Images/OriginalPhoto/12735/1273570/1273570357/image-puerto-vallarta-now-amber-hotel-18.JPEG",
+                      "img-9": "https://now-amber.hoteles-en-jalisco.com/data/Pictures/OriginalPhoto/12735/1273570/1273570438/picture-puerto-vallarta-now-amber-hotel-13.JPEG"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Velas Vallarta Suites Resort All Inclusive",
+                  "nombre2": "Velas Vallarta Suites Resort All Inclusive",
+                  "precio": "$36,410.00",
+                  "habitacion1": "Suite de Lujo con Vista al Mar",
+                  "habitacion2": "Suite Familiar",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Habitación Familiar",
+                  "habitacion5": "Habitación Club",
+                  "descripcion": "Lujo y todo incluido junto a la playa",
+                  "descripcion2": "Velas Vallarta Suites Resort All Inclusive ofrece un entorno de lujo y todo incluido junto a la playa. Con suites elegantes y servicios exclusivos, este resort es perfecto para aquellos que buscan una experiencia inolvidable en Puerto Vallarta.",
+                  "url": "https://www.velasresorts.com.mx/resourcefiles/full-slider/velas-vallarta-slider-5.jpg?version=12292023130052",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.velasresorts.com.mx/resourcefiles/full-slider/velas-vallarta-slider-5.jpg?version=12292023130052",
+                      "img-2": "https://x.cdrst.com/foto/hotel-sf/a51e/granderesp/velas-vallarta-suite-resort-all-inclusive-servicios-1014698a.jpg",
+                      "img-3": "https://vivemedia-1d168.kxcdn.com/48713/5.jpg",
+                      "img-4": "https://velas-vallarta-suite-resort.hotelspuertovallarta.org/data/Imgs/OriginalPhoto/12736/1273695/1273695334/img-velas-vallarta-suite-resort-puerto-vallarta-29.JPEG",
+                      "img-5": "https://foto.hrsstatic.com/fotos/0/2/1280/1280/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F4%2F0%2F6%2F6%2F406658%2F406658_a_28147933.jpg/PKXc%2FsbGSqdHZTdgeSqBlA%3D%3D/512%2C341/6/Velas_Vallarta_Suites_Resort-Puerto_Vallarta-Aussenansicht-2-406658.jpg",
+                      "img-6": "https://vivemedia-1d168.kxcdn.com/48713/13.jpg",
+                      "img-7": "https://dondealojarseen.com/wp-content/uploads/2019/05/Velas-Vallarta-Suite-Resort-All-Inclusive.jpg",
+                      "img-8": "https://img.cdnpth.com/media/YsV8p8ar0R1gaj0D0zJORRcajjA=/720x480/05/02/11/05021147.jpg",
+                      "img-9": "https://images.trvl-media.com/lodging/1000000/10000/1700/1681/d5919f7f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+                  }
+                  ]
+                },              
+                {
+                  "nombre": "Garza Blanca Preserve & Resort",
+                  "nombre2": "Garza Blanca Preserve & Resort",
+                  "precio": "$25,325.00",
+                  "habitacion1": "Suite de Lujo con Vista al Mar",
+                  "habitacion2": "Habitación Familiar Deluxe",
+                  "habitacion3": "Suite Junior con Terraza",
+                  "habitacion4": "Habitación Superior",
+                  "habitacion5": "Suite Presidencial",
+                  "descripcion": "Descubre la elegancia y el lujo en Garza Blanca Preserve & Resort.",
+                  "descripcion2": "Disfruta de la comodidad y el servicio de alta calidad en este resort ubicado en Puerto Vallarta. Con vistas panorámicas al mar y suites lujosas, tu estancia será inolvidable.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f0/4c/c2/garza-blanca-preserve.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251705052.jpg?k=643875a00be6b28429e4752560982a8fab69eb7eba6ddbcee388b4f8a9064af2&o=&hp=1",
+                      "img-2": "https://www.taferresorts.com/cms/resources/aquazul-garza-blanca-puerto-vallarta-min-w674h674.jpg",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251704186.jpg?k=64aaffc484e282d009d8684fcd14e4663f99213f861e80587376b154adee7b35&o=&hp=1",
+                      "img-4": "https://www.garzablancaresort.com/cms/resources/junior-panorama-suite-garza-blanca-vallarta-min-w850h480.jpg",
+                      "img-5": "https://d1bb1mccaihlpl.cloudfront.net/variants/19496g3hvk83pa1jfnnv32dgl9c2/5495488087431af32265aaaaa1b8a274541d70555aa4d7c01d8d0fed27e7c152",
+                      "img-6": "https://www.momondo.mx/himg/79/e6/c7/expediav2-2212093-86c9e1-700530.jpg",
+                      "img-7": "https://www.taferresorts.com/cms/resources/blanca-blue-puerto-vallarta-1-w674h674.jpg",
+                      "img-8": "https://www.luxurylink.com/images/sho_549b50e9/9905_30-1280/Pool.jpg",
+                      "img-9": "https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,c_fill,f_auto,w_750,q_85/travelapi/3000000/2620000/2614800/2614708/009e49e1_z.jpg"
+                  }
+                  ]
+              },            
+              {
+                  "nombre": "The Hacienda at Krystal Grand Puerto Vallarta All Inclusive",
+                  "nombre2": "The Hacienda at Krystal Grand Puerto Vallarta All Inclusive",
+                  "precio": "$23,329.00",
+                  "habitacion1": "Suite Junior con Vista al Mar",
+                  "habitacion2": "Habitación Deluxe con Terraza",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Habitación con Jacuzzi",
+                  "habitacion5": "Habitación Superior - Solo Adultos",
+                  "descripcion": "Explora la auténtica hospitalidad mexicana en The Hacienda.",
+                  "descripcion2": "Con una ubicación privilegiada en Puerto Vallarta, este resort todo incluido ofrece una experiencia única con habitaciones elegantes, gastronomía excepcional y entretenimiento de clase mundial.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22015017.jpg?k=a6f48bd4ce1c2c757392303dbe668c90e2bae39d832c5e4db36475b6ea354194&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433314428.jpg?k=733bec08fddccfa3a24ca850e5cc72920dc2488e74ac3a5ac67b7c9d2eb09970&o=&hp=1",
+                      "img-2": "https://www.haciendakrystalgrand.com/images/slides/slide-4.jpg",
+                      "img-3": "https://images.trvl-media.com/lodging/25000000/24940000/24930700/24930665/b1329f40.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-4": "https://www.haciendakrystalgrand.com/images/gallery/gallery-2.jpg",
+                      "img-5": "https://z.cdrst.com/foto/hotel-sf/1c3d7f/granderesp/foto-hotel-11ac45e1.jpg",
+                      "img-6": "https://storage.googleapis.com/cloudaio/images/hotel/615e7211-0643-4a70-89e2-764d64b93821/44365/14.jpg",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151831324.jpg?k=f056441ddd5acd71d8817a46f6f784fc135df3da03dd92ead4c37137b6dc9586&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151831330.jpg?k=4559701ee065f5bf68552bf9ceec0fda389fd2cb72f6dde567add052b8bf6dbe&o=&hp=1",
+                      "img-9": "https://cdn.precioyviajes.com/03/07/88/03078872_gp.jpg"
+                  }
+                  ]
+              }            
+            ],
+            "descripcion1": "Vive la auténtica hospitalidad en Puerto Vallarta",
+            "descripcion2": "Explora el encanto del centro histórico y sus playas",
+            "descripcion3": "Puerto Vallarta, situado en la costa del Pacífico, combina la belleza natural con un encanto tradicional mexicano. Con sus playas doradas, el Malecón vibrante y la auténtica gastronomía, Puerto Vallarta ofrece una escapada perfecta para aquellos que buscan relax y aventura en un entorno pintoresco."
+        },
+        {
+            "nombre": "nuevo-vallarta",
+            "nombre2": "Nuevo Vallarta",
+            "descripcion": "Conocido por sus impresionantes playas de arena dorada y aguas cristalinas, Nuevo Vallarta ofrece a los visitantes una experiencia de descanso y relajación incomparable. ",
+            "image": "https://blog.marivalresorts.com/media/uploads/2018/06/Sobre-Nuevo-Vallarta.jpg",
+            "hoteles": [
+              {
+                  "nombre": "Hard Rock Hotel Vallarta - All Inclusive",
+                  "nombre2": "Hard Rock Hotel Vallarta - All Inclusive",
+                  "precio": "$32,708.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Rock Star",
+                  "habitacion5": "Habitación Nirvana - Solo Adultos",
+                  "descripcion": "Descubre el lujo y la diversión en el Hard Rock Hotel Vallarta.",
+                  "descripcion2": "Con su estilo característico, este resort todo incluido ofrece una experiencia única. Desde habitaciones elegantes hasta entretenimiento de clase mundial, cada momento será inolvidable.",
+                  "url": "https://www.paradisepass.com/es/files/6627/21681757_ImageLargeWidth.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://media.staticontent.com/media/pictures/c5591011-0009-4c6c-b982-4e9df06ad861",
+                      "img-2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2f/db/1a/hrhvallarta-exterior.jpg?w=700&h=-1&s=1",
+                      "img-3": "https://y.cdrst.com/foto/hotel-sf/935f/granderesp/hard-rock-hotel-vallarta-all-inclusive-exterior-f5a448e.jpg",
+                      "img-4": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/117/14/539/HRH_Vallarta_Lobby__O/Hard-Rock-Hotel-Vallarta-Lobby.jpg?tr=w-780%2Ch-437%2Cfo-auto",
+                      "img-5": "https://www.hrcancunhotel.com/images/slides/slide-1.jpg",
+                      "img-6": "https://content.tui.co.uk/adamtui/2016_9/28_20/8ca5dd76-e0c7-4575-9f2d-a68f01572c89/MEX_PVT_3612_DLXWebOriginalCompressed.jpg?i10c=img.resize(width:1080);img.crop(width:1080%2Cheight:608)",
+                      "img-7": "https://www.hardrockhotels.com/vallarta/es/files/6179/gallery-vallarta07.jpg",
+                      "img-8": "https://imacopgdl.files.wordpress.com/2015/08/rock-star-suite.jpg",
+                      "img-9": "https://q-xx.bstatic.com/xdata/images/hotel/max1000/33787214.jpg?k=9f018299592e5a614d4b3c0c6881da4f51dac441f44d295861293d42b7f15c6b&o="
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Marival Emotions Resort & Suites All Inclusive",
+                  "nombre2": "Marival Emotions Resort & Suites All Inclusive",
+                  "precio": "$35,149.00",
+                  "habitacion1": "Suite Junior con Vista al Jardín",
+                  "habitacion2": "Habitación Deluxe",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Habitación Emotions",
+                  "habitacion5": "Habitación Sunset - Solo Adultos",
+                  "descripcion": "Sumérgete en la emoción y el confort en Marival Emotions Resort.",
+                  "descripcion2": "Con una ubicación privilegiada en la playa, este resort todo incluido ofrece una variedad de opciones de alojamiento y comodidades excepcionales para toda la familia.",
+                  "url": "https://img.cdnpth.com/media/AZa5A0K3TJuQb7Oj8j5p5cuyK0g=/720x480/04/58/78/04587867.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://img.cdnpth.com/media/AZa5A0K3TJuQb7Oj8j5p5cuyK0g=/720x480/04/58/78/04587867.jpg",
+                      "img-2": "https://media.staticontent.com/media/pictures/2afe8d97-f036-4078-ae04-390e9bf3571f",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89678392.jpg?k=dac8e7d0e97d5d27912f87e0465f6b5825c6e8dcedc2b802ad544b0d8f74109d&o=&hp=1",
+                      "img-4": "https://static11.com-hotel.com/uploads/hotel/53163/photo/marival-resort-and-suites-all-inclusive_15246283161.jpg",
+                      "img-5": "https://images.trvl-media.com/lodging/1000000/540000/539700/539631/b9f61c51.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-6": "https://x.cdrst.com/foto/hotel-sf/71f6/granderesp/marival-emotions-resort-suites-general-e62b5dc.jpg",
+                      "img-7": "https://puertasdelsol.com.mx/wp-content/uploads/2022/09/Marival-Emotions-Resort-Suites-5.jpg",
+                      "img-8": "https://www.travelbybob.com/wp-content/uploads/2015/06/travelbybob-subpage-gallery-resort-puertovallarta-marival-1.jpg",
+                      "img-9": "https://marival-resort-suites-nuevo-vallarta.hotelmix.es/data/Photos/OriginalPhoto/12736/1273606/1273606783/Marival-Emotions-Resort-Suites-Nuevo-Vallarta-Exterior.JPEG"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Villa Del Palmar Flamingos Beach Resort and Spa - All Inclusive",
+                  "nombre2": "Villa Del Palmar Flamingos Beach Resort and Spa - All Inclusive",
+                  "precio": "$17,125.00",
+                  "habitacion1": "Estudio con Vista al Mar",
+                  "habitacion2": "Suite de Dos Habitaciones",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Penthouse con Jacuzzi",
+                  "habitacion5": "Habitación Deluxe - Solo Adultos",
+                  "descripcion": "Experimenta el lujo y la relajación en Villa Del Palmar Flamingos.",
+                  "descripcion2": "Con sus espectaculares vistas al mar, este resort todo incluido ofrece una variedad de alojamientos, desde estudios hasta penthouses, garantizando una estancia placentera.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/84/47/20/panoramic.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://villacdn.villagroupresorts.com/uploads/general_template/image_portada/70/Villa-del-Palmar-Flamingos-Riviera-Nayarit-Panoramic-4.jpg",
+                      "img-2": "https://villacdn.villagroupresorts.com/uploads/photo/image/1052/Villa-Del-Palmar-Flamingos-Riviera-Nayarit-Pool-9.jpg",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336787498.jpg?k=8ed70a56eab885de6d3327f0e5ef3b83de0553298af85d422b795f66b85ac5f4&o=&hp=1",
+                      "img-4": "https://images.trvl-media.com/lodging/2000000/1080000/1072000/1071939/b9014674.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-5": "https://villacdn.villagroupresorts.com/uploads/photo/image/1053/optimizada_Villa-Del-Palmar-Flamingos-Riviera-Nayarit-Pool-10.jpg",
+                      "img-6": "https://villacdn.villagroupresorts.com/uploads/photo/image/246/Villa-del-Palmar-Puerto-Vallarta.jpg",
+                      "img-7": "https://villacdn.villagroupresorts.com/uploads/template_home/penthouse_image/8/optimizada_Villa-del-Palmar-Flamingos-Riviera-Nayarit-Presidential-Two-Bedroom-Suite-8.jpg",
+                      "img-8": "https://img.cdnpth.com/media/Ry3Ah7yRTlXpoByzn1_DOQ6kmAI=/720x480/02/89/85/02898541.jpg",
+                      "img-9": "https://ak-d.tripcdn.com/images/0226012000ampmddt3422_R_800_525.jpg"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Grand Velas Riviera Nayarit - All Inclusive",
+                  "nombre2": "Grand Velas Riviera Nayarit - All Inclusive",
+                  "precio": "$89,635.00",
+                  "habitacion1": "Suite Ambassador con Vista al Océano",
+                  "habitacion2": "Suite Wellness con Terraza",
+                  "habitacion3": "Grand Class Suite",
+                  "habitacion4": "Suite Familiar de Dos Recámaras",
+                  "habitacion5": "Presidential Suite",
+                  "descripcion": "Vive la grandeza y el lujo en Grand Velas Riviera Nayarit.",
+                  "descripcion2": "Con impresionantes vistas al océano, este resort todo incluido ofrece suites elegantes y servicios excepcionales. Disfruta de la mejor experiencia vacacional en un entorno de lujo.",
+                  "url": "https://www.grandvelas.com.mx/resourcefiles/mainimages/grand-velas-riviera-nayarit-resort-at-mexico-top.jpg?version=1082024232002",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.grandvelas.com.mx/resourcefiles/mainimages/grand-velas-riviera-nayarit-resort-at-mexico-top.jpg?version=1082024232002",
+                      "img-2": "https://vallarta.grandvelas.com.mx/resourcefiles/homemoduleboximages/grand-velas-riviera-nayarit-suites.jpg?version=1112024011816",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323115821.jpg?k=67569759cb0c905b58b725761fd604db64cfd86d8cd89f0122fd5297782481c4&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251184112.jpg?k=137bcce5375be056650068080d44aad4058b33a35762394bd233f4e62f314598&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251184110.jpg?k=503b2c9be4158ab7723208cdcb262e26fc4ea669bbd8abdd72e24411219c8ef6&o=&hp=1",
+                      "img-6": "https://ultimateall-inclusivetravel.com/wp-content/uploads/2017/03/grand_velas_riviera_nayarit_01.jpg",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251183933.jpg?k=3c23e67128d6452052e5e6f3a1614a41a342df0ab68440ddaa2b4abc00bedab6&o=&hp=1",
+                      "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSOeNmmJFPUVHV2ckfdopwVApW-hUq3nKKQ&usqp=CAU",
+                      "img-9": "https://vallarta.grandvelas.com/resourcefiles/homemoduleboximages/grand-velas-riviera-nayarit-dining-experience.png?version=1122024162237"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Krystal Grand Nuevo Vallarta – All Inclusive",
+                  "nombre2": "Krystal Grand Nuevo Vallarta – All Inclusive",
+                  "precio": "$27,047.00",
+                  "habitacion1": "Suite Deluxe con Vista al Mar",
+                  "habitacion2": "Habitación Familiar de Dos Recámaras",
+                  "habitacion3": "Suite Krystal Club",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe - Solo Adultos",
+                  "descripcion": "Experimenta la elegancia y el confort en Krystal Grand Nuevo Vallarta.",
+                  "descripcion2": "Con vistas panorámicas al mar, este resort todo incluido ofrece una variedad de alojamientos y servicios exclusivos. Descubre el encanto de este destino paradisíaco.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592070.jpg?k=094f29b700a00de0b758cd10d66ebf1a072e3579793d05608a8c8994ccb99096&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592070.jpg?k=094f29b700a00de0b758cd10d66ebf1a072e3579793d05608a8c8994ccb99096&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592151.jpg?k=eac4c6fbb3a0c9e89f597c734f92a3363f692b4bd5712ba41d9dbd04044108d5&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592210.jpg?k=0ce2ab2749a5d288280488d8fd1634270ff2ff9984a2fe28cf5f1434bb2a5ea8&o=&hp=1",
+                      "img-4": "https://images.inmexico.com/2018/02/Screen-Shot-2018-02-22-at-4.17.05-PM.jpg",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592207.jpg?k=ade48637ea9f1134311084900f4fa98c2b9538d50e0673f5ce83bfce3a87bdf5&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592109.jpg?k=3e009645cba55a2a7dfd6ef3697260c3a8b71ad254e0287f7f79f54acca9ba4c&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216592084.jpg?k=b7800df47a3d22b852b3301214ae0ae8f222acaf5833d667128c57d17bdd330f&o=&hp=1",
+                      "img-8": "https://lh3.googleusercontent.com/proxy/2YZ-tg9xoEr-V_bkLVh9R_kePihZLILxWHvnPT3JGYw1rqK7We5X1S49Lyebkd9mtZavbCxUdL453rEoMahjMFss9wP-bxbSX0R3D1FaeqwsxzlelVMLcYSRrnM",
+                      "img-9": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com.mx%2FHotel_Review-g9723540-d12730990-Reviews-Krystal_Grand_Nuevo_Vallarta-Flamingos_Nuevo_Nayarit_Pacific_Coast.html&psig=AOvVaw2oWNu8ky_ZaeYBrRE2OkLQ&ust=1705527026908000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiogbft4oMDFQAAAAAdAAAAABAD"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Wyndham Alltra Riviera Nayarit All-Inclusive Resort",
+                  "nombre2": "Wyndham Alltra Riviera Nayarit All-Inclusive Resort",
+                  "precio": "$25,336.00",
+                  "habitacion1": "Suite Deluxe con Vista al Mar",
+                  "habitacion2": "Habitación Familiar",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Suite Wellness",
+                  "habitacion5": "Habitación Deluxe - Solo Adultos",
+                  "descripcion": "Descubre la comodidad y la elegancia en Wyndham Alltra Riviera Nayarit.",
+                  "descripcion2": "Con vistas espectaculares al mar, este resort todo incluido ofrece una variedad de alojamientos y servicios excepcionales. Disfruta de unas vacaciones inolvidables en la Riviera Nayarit.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f7/a6/1d/exterior.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f7/a6/1d/exterior.jpg?w=700&h=-1&s=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494821621.jpg?k=210790ac97685208b87ee82ec9d532cc2d98fabbea0e16b61351c4e20d594cb7&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494821727.jpg?k=3bef4366692e36a827ec445715f23c9e182af486af875f21097d4d8a5643b9b8&o=&hp=1",
+                      "img-4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG02ifJmlByOGqY_j9ML2uod9wWl5suLGKuRWRpCFzZzdSBxURm2_0P2mU4pKzj0SmSSg&usqp=CAU",
+                      "img-5": "https://foodandtravel.mx/wp-content/uploads/2022/10/Wyndham-Alltra-Riviera-Nayarit-restaurante.jpg",
+                      "img-6": "https://www.rivieranayaritresort.com/images/slides/slide-3.jpg",
+                      "img-7": "https://images.stayforlong.com/eyJidWNrZXQiOiJob3RlbG1lZGlhLnN0YXlmb3Jsb25nLmNvbSIsImtleSI6InJhdy8yNzgxLzI3ODExMzQ4LTYwNjYwLmpwZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsInJlc2l6ZSI6eyJ3aWR0aCI6NzY3LCJmaXQiOiJjb3ZlciJ9fX0=",
+                      "img-8": "https://y.cdrst.com/foto/hotel-sf/1191b/granderesp/dreams-villamagna-nuevo-vallarta-general-10096732.jpg",
+                      "img-9": "https://q-xx.bstatic.com/xdata/images/hotel/max500/506560682.jpg?k=265b2f8767b2effbb28120b82ad573d96f280f716b1c9e15e6ea32c484f9d82a&o="
+                    }              
+                  ]
+              },            
+              {
+                  "nombre": "Riu Jalisco All Inclusive",
+                  "nombre2": "Riu Jalisco All Inclusive",
+                  "precio": "$28,474.00",
+                  "habitacion1": "Habitación Doble con Vista al Jardín",
+                  "habitacion2": "Suite Familiar",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Habitación Superior",
+                  "habitacion5": "Junior Suite",
+                  "descripcion": "Disfruta de la hospitalidad y el confort en Riu Jalisco.",
+                  "descripcion2": "Con una ubicación privilegiada en la playa, este resort todo incluido ofrece una variedad de habitaciones y suites para satisfacer todas las necesidades. Vive momentos inolvidables en Puerto Vallarta.",
+                  "url": "https://www.riu.com/en/binaris/slide-riu-jalisco_tcm55-232557.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.riu.com/en/binaris/hotel-riu-jalisco-3_tcm55-228131.jpg?v=tm220120_1604",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286453570.jpg?k=6bc83c1e24681654307764f71fa9b9c02c269a7e51e70fd253e90dc23a36fc18&o=&hp=1",
+                      "img-3": "https://www.riu.com/en/binaris/bar-lobby-riu-jalisco_tcm55-228123.jpg?v=tm220120_1604",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286452610.jpg?k=6763336f367b7c1f95312a5bc150c9c88e5345d864cbcb804b397d568ca4d857&o=&hp=1",
+                      "img-5": "https://z.cdrst.com/foto/hotel-sf/b190/granderesp/riu-jalisco-all-inclusive-general-d831e8f.jpg",
+                      "img-6": "https://images.trvl-media.com/lodging/1000000/900000/898000/897912/8ea7a997.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-7": "https://www.riu.com/en/binaris/restaurante-riu-jalisco_tcm55-228141.jpg?v=tm220120_1604",
+                      "img-8": "https://www.riu.com/en/binaris/pool-riu-vallarta_tcm55-230567.jpg?v=tm040221_0920",
+                      "img-9": "https://www.riu.com/en/binaris/bar-poolside-riu-vallarta_tcm55-231276.jpg?v=tm040221_0920"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Family Luxury Residences by Villa La Estancia Riviera",
+                  "nombre2": "Family Luxury Residences by Villa La Estancia Riviera",
+                  "precio": "$37,750.00",
+                  "habitacion1": "Suite de Lujo con Vista al Mar",
+                  "habitacion2": "Habitación Familiar de Dos Recámaras",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe - Solo Adultos",
+                  "descripcion": "Experimenta la elegancia y el servicio excepcional en Family Luxury Residences.",
+                  "descripcion2": "Con vistas impresionantes y una variedad de opciones de alojamiento, este resort todo incluido es ideal para familias y parejas que buscan una experiencia de lujo en la Riviera Nayarit.",
+                  "url": "https://img.cdnpth.com/media/E7xKizwKwXFmw5hbwAKqR-ybahM=/720x480/03/12/88/03128841.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://villacdn.villagroupresorts.com/uploads/hotel/cover/14/optimizada_Villa-la-Estancia-Riviera-Nayarit-Pool-11.jpg",
+                      "img-2": "https://content.r9cdn.net/rimg/kimg/d1/0f/4d982a81-60c92a53-0.jpeg?width=1200&height=630&crop=true",
+                      "img-3": "https://villacdn.villagroupresorts.com/uploads/photo/image/1542/Villa-La-Estancia-Riviera-Nayarit-One-Bedroom-Ocean-View-4.jpg",
+                      "img-4": "https://media.staticontent.com/media/pictures/14e4a7f8-5299-48eb-88b6-579443917246",
+                      "img-5": "https://www.momondo.mx/himg/82/8f/7c/expediav2-3928662-f30f28-024852.jpg",
+                      "img-6": "https://villacdn.villagroupresorts.com/uploads/restaurant/cover/26/optimizada_Villa-La-Estancia-Riviera-Nayarit-La-Parrilla-Cover-01.jpg",
+                      "img-7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3MOwHwziDHXKkQU9Rm9Od-Ce7IvFM9l0Bw&usqp=CAU",
+                      "img-8": "https://storage.googleapis.com/cloudaio/images/hotel/782e9f20-c9b5-4f30-81aa-adb5be608959/27464/21.jpg",
+                      "img-9": "https://villacdn.villagroupresorts.com/uploads/template_suite/image/8/Villa-La-Estancia-Riviera-Nayarit-Penthouse-Three-Bedrooms.jpg"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Conrad Punta Mita",
+                  "nombre2": "Conrad Punta Mita",
+                  "precio": "$34,300.00",
+                  "habitacion1": "Suite Deluxe con Vista al Océano",
+                  "habitacion2": "Habitación Familiar",
+                  "habitacion3": "Suite Presidencial",
+                  "habitacion4": "Suite Wellness",
+                  "habitacion5": "Habitación Deluxe - Solo Adultos",
+                  "descripcion": "Descubre el lujo y la serenidad en Conrad Punta Mita.",
+                  "descripcion2": "Con vistas impresionantes al océano, este resort ofrece alojamientos de primera clase y servicios exclusivos. Disfruta de unas vacaciones inolvidables en la hermosa Punta Mita.",
+                  "url": "https://assets.resortpass.com/uploads/image/picture/32371/width_1280_ConradPuntadeMita_Pool2.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cdn.conradpuntademita.com/wp-content/uploads/2023/11/23134252/PVRPMCI_GrandSuite-Terrace2-scaled-e1653492505849-1.webp",
+                      "img-2": "https://jsfdemexico.com/wp-content/uploads/2022/03/Photo_6554115_DJI_515_jpg_4030609_0_20201024134840_photo_original-min.jpg",
+                      "img-3": "https://assets.resortpass.com/uploads/image/picture/32371/width_1280_ConradPuntadeMita_Pool2.jpg",
+                      "img-4": "https://media.cntraveler.com/photos/62def2d86b106611b3ade24b/16:9/w_2560,c_limit/Conrad%20Punta%20de%20Mita_ConradPuntadeMita_Mezquite2.jpg",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492712825.jpg?k=9f331292321d8c1f90d2f563c5a88cec3fcce09f1bab460229930dd2f55d4b14&o=&hp=1",
+                      "img-6": "https://y.cdrst.com/foto/hotel-sf/c45c5/granderesp/conrad-punta-de-mita-habitacion-10f7f177.jpg",
+                      "img-7": "https://images.trvl-media.com/lodging/41000000/40740000/40733100/40733092/c42550cb.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-8": "https://glocal.mx/wp-content/uploads/2020/09/conradpuntademita-lobby2-1024x668.jpg",
+                      "img-9": "https://masaryk.tv/wp-content/uploads/2021/01/PVRPMCI_SPA-Aereal1.jpg"
+                    }                  
+                  ]
+              }            
+            ],
+            "descripcion1": "Descubre el paraíso en Nuevo Vallarta",
+            "descripcion2": "Relájate en sus extensas playas de arena fina",
+            "descripcion3": "Nuevo Vallarta, ubicado en la bahía de Banderas, es conocido por sus resorts de lujo y playas interminables. Con aguas tranquilas, campos de golf de clase mundial y actividades acuáticas emocionantes, este destino ofrece una experiencia vacacional exclusiva en la costa del Pacífico mexicano."
+        },
+        {
+            "nombre": "mazatlan",
+            "nombre2": "Mazatlán",
+            "descripcion": "Con una rica historia, impresionantes playas y una vibrante vida cultural, Mazatlán ofrece a los visitantes una experiencia única llena de encanto y diversión.",
+            "image": "https://gh-onboarding.s3.amazonaws.com/xlarge_malecones-de-mexico_eefcbd62db.png",
+            "hoteles": [
+              {
+                  "nombre": "Hotel Emporio Mazatlan",
+                  "nombre2": "Hotel Emporio Mazatlán",
+                  "precio": "$15,896.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Disfruta de la comodidad y elegancia en Hotel Emporio Mazatlán.",
+                  "descripcion2": "Ubicado en una de las playas más hermosas de Mazatlán, este hotel ofrece alojamientos de lujo y servicios excepcionales. Vive unas vacaciones inolvidables en la costa del Pacífico.",
+                  "url": "https://hotelesemporio.com/wp-content/uploads/2018/12/FACHADA-MAZA2-960x600-1.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://media.staticontent.com/media/pictures/3f389acd-1988-4287-9ce2-f1495a06ea74/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-2": "https://media.staticontent.com/media/pictures/9d3e4815-c87e-4552-8285-2b06473fd038/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-3": "https://media.staticontent.com/media/pictures/e780b037-d613-4843-b31d-2754aa2d4b96/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-4": "https://media.staticontent.com/media/pictures/a448acc3-c4a2-4ef1-b2f0-cba8f2a3736e/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-5": "https://media.staticontent.com/media/pictures/95aa76b1-a5a2-4d37-81b9-33fc0d5455a5/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-6": "https://media.staticontent.com/media/pictures/5c5eadee-40f3-4f9e-8f9c-38e62ec65fb6/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-7": "https://media.staticontent.com/media/pictures/c982fe6d-500f-49b1-8797-2d39e4734c88/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-8": "https://media.staticontent.com/media/pictures/ea788d24-aa38-4763-829c-5781e29b36c9/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5",
+                      "img-9": "https://media.staticontent.com/media/pictures/9449a17e-3437-46e6-b8bb-5384e5200551/1120x452?op=TRUNCATE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1.5"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Pueblo Bonito Emerald Bay Resort & Spa",
+                  "nombre2": "Pueblo Bonito Emerald Bay Resort & Spa",
+                  "precio": "$41,132.00",
+                  "habitacion1": "Suite Deluxe con Vista al Jardín",
+                  "habitacion2": "Suite Junior con Vista al Mar",
+                  "habitacion3": "Habitación Nizuc",
+                  "habitacion4": "Suite Golf con Vista al Campo de Golf",
+                  "habitacion5": "Suite Presidencial",
+                  "descripcion": "Experimenta la elegancia y el lujo en Pueblo Bonito Emerald Bay Resort & Spa.",
+                  "descripcion2": "Situado en una ubicación privilegiada en Mazatlán, este resort todo incluido ofrece una experiencia inigualable. Con impresionantes vistas y comodidades de clase mundial, tu estancia será inolvidable.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/13756947.jpg?k=48b8c72254662a8095dc1ad7b37cacb2dc6dc9d243842303f9ae3fd4b70ef467&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/05-PBonito-EmeraldB-Gallery-564dfee1d8806.jpg",
+                      "img-2": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/30-PBonito-EmeraldB-Gallery-564dff76d28f4.jpg",
+                      "img-3": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/EmeraldBay_Gallery-1-56cde198042a2.jpg",
+                      "img-4": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/04-PBonito-EmeraldB-Gallery-564dfef92b466.jpg",
+                      "img-5": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/09-PBonito-EmeraldB-Gallery-564dff051d4dd.jpg",
+                      "img-6": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/17-PBonito-EmeraldB-Gallery-564dff301dfed.jpg",
+                      "img-7": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/29-PBonito-EmeraldB-Gallery-564dffc3deebc.jpg",
+                      "img-8": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/24-PBonito-EmeraldB-Gallery-564dff62e3cbc.jpg",
+                      "img-9": "https://symphony.cdn.tambourine.com/pueblo-bonito-resorts/media/EmeraldBay_Gallery-9-56cde1a252b18.jpg"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Pacific Palace Beach Tower Hotel",
+                  "nombre2": "Pacific Palace Beach Tower Hotel",
+                  "precio": "$14,862.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Descubre la belleza del Pacífico en Pacific Palace Beach Tower Hotel.",
+                  "descripcion2": "Con una ubicación espectacular frente al mar, este hotel ofrece una variedad de habitaciones y suites con comodidades excepcionales. Disfruta de unas vacaciones inolvidables en Mazatlán.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433446207.jpg?k=ee3ae3795b40de64a04c5d56199d351e813a19f15f2b83f4e8ab4d229ac06521&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/433446207.jpg?k=ee3ae3795b40de64a04c5d56199d351e813a19f15f2b83f4e8ab4d229ac06521&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/321744573.jpg?k=3c5f8ddb67fca99ad402fd8c33d5405ee28ac81749e8e9fd9cb866fe6dd1e23b&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/321744575.jpg?k=d0584137ef30e9462aab132b19aaf6f815a7eee7212ae53c88bffe8e09b5ee0d&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/244656460.jpg?k=0e21a811cf3d4da498a17b405d04b6b0d10936137c3627240fe4b0971e19abbc&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/244653917.jpg?k=9975a685fe3c990d4bf3621f80642cf5bb03c8a77fec5d60659d50668f7ce51b&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/244652930.jpg?k=f608c1a870902f746cbe917d3d7c186ebde776fe4f8e486757cdc232c228f6bd&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/505021584.jpg?k=0c0ff438ad10638f87382f6cf062ba4d9a98dd07c180ca280806e04922d083f9&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/505021499.jpg?k=1f66fa19c585eb080540cd3cf0da179a08cc631c73d339e4866d6e2149d6fbcf&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/415978280.jpg?k=6cd3d26d6d4fc8bbadfb0f6fc96e0154224e3bf1b9fde86467116b69812248f4&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Star Palace Beach Hotel",
+                  "nombre2": "Star Palace Beach Hotel",
+                  "precio": "$12,560.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Vive la comodidad y el encanto en Star Palace Beach Hotel.",
+                  "descripcion2": "Situado a orillas del océano, este hotel ofrece alojamientos acogedores y vistas impresionantes. Disfruta de unas vacaciones relajantes en Mazatlán.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433449207.jpg?k=b368f375f9cf68d71275e32f9c8d70930e6a5feccc75343d7482a6aabbc957a5&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.starpalace.mx/img/general/abajofront.jpg",
+                      "img-2": "https://www.starpalace.mx//img/general/gym.jpg",
+                      "img-3": "https://www.starpalace.mx/img/rooms/cuarto1.jpg",
+                      "img-4": "https://www.starpalace.mx/img/rooms/R5.jpg",
+                      "img-5": "https://www.starpalace.mx/img/rooms/R8.jpg",
+                      "img-6": "https://www.starpalace.mx/img/general/testimonio.webp",
+                      "img-7": "https://www.starpalace.mx/img/restaurant/oceana.webp",
+                      "img-8": "https://www.starpalace.mx/img/general/hotelatras.webp",
+                      "img-9": "https://www.starpalace.mx/img/general/albercaplaya.webp"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Viaggio Resort Mazatlan",
+                  "nombre2": "Viaggio Resort Mazatlan",
+                  "precio": "$15,073.00",
+                  "habitacion1": "Habitación Estándar con Vista al Jardín",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Suite Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Vista al Mar",
+                  "descripcion": "Descubre la elegancia y la tranquilidad en Viaggio Resort Mazatlan.",
+                  "descripcion2": "Con hermosas vistas y un ambiente relajado, este resort ofrece una variedad de opciones de alojamiento. Disfruta de unas vacaciones inolvidables en la costa de Mazatlán.",
+                  "url": "https://cdn0.bodas.com.mx/vendor/4485/3_2/960/jpg/photo-2019-06-07-17-38-10_5_364485-166240028027887.jpeg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/461612964.jpg?k=3b2280e34feb878056787d632b24b987f0cfe07cba54a87989aba80400f341e0&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397908329.jpg?k=8d6965c5a3c88494638bf6c533c6d96b87fb13a0f42869e724ed3a5ed0e1db15&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397908335.jpg?k=c76aeb62f33558fc53d3b5bedefcd3a6d62808d45f4d42b002fad76eb4c1e189&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397040854.jpg?k=a9e39e4138667332dbd0b5acb439a1f18bb08d96088b955bc137df4a90d8ecc0&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397040868.jpg?k=c53d86706454111a7d44d378feb55170b48f413bb40794850f1f266103f03476&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397039378.jpg?k=da7111b633f14ea6973e726189ab48af4da88e39d62b46ce745031375febd7db&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397041936.jpg?k=2c5608dc65793e56bdf3ca2ca355a2eac6d7ab644ae9992d13637f9c98942571&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397041480.jpg?k=afa556d1c71266e407a822bee621c17ffc706a8f12be24f3745e0769d4a83500&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/397041542.jpg?k=82c6c57155dc20078fb045f0211ba258248830e10aa98f470cb4cc7257808e92&o=&hp=1"
+                    }                  
+                  ]
+              }            
+            ],
+            "descripcion1": "Siente la autenticidad de Mazatlán",
+            "descripcion2": "Explora su malecón y disfruta de su gastronomía",
+            "descripcion3": "Mazatlán, con su encanto colonial y su impresionante malecón, es un destino que combina historia y belleza natural. Con playas extensas, actividades culturales y una vibrante vida nocturna, Mazatlán ofrece una experiencia única en la costa del Pacífico mexicano."
+        },
+        {
+            "nombre": "ixtapa-zihuatanejo",
+            "nombre2": "Ixtapa Zihuatanejo",
+            "descripcion": "Conocido por sus hermosas playas, aguas cristalinas y exuberante vegetación, ofrece a los visitantes una experiencia de relajación y aventura.",
+            "image": "https://img1.wsimg.com/isteam/ip/1facb119-cb41-46b2-8162-7d18848ac029/AdobeStock_471165601.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+            "hoteles": [
+              {
+                  "nombre": "Barcelo Ixtapa",
+                  "nombre2": "Barceló Ixtapa",
+                  "precio": "$22,623.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Habitación Deluxe con Terraza",
+                  "habitacion5": "Suite Presidencial",
+                  "descripcion": "Experimenta la comodidad y el lujo en Barceló Ixtapa.",
+                  "descripcion2": "Ubicado en la hermosa playa de Ixtapa, este hotel ofrece una estancia excepcional con habitaciones elegantes y una variedad de comodidades. Disfruta de unas vacaciones inolvidables.",
+                  "url": "https://static.barcelo.com/content/dam/bhg/master/es/hoteles/mexico/ixtapa/hotel-barcelo-ixtapa/main-photos/hotel/BIXT_POOL_27.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/141760106.jpg?k=34c05f163c151a36e8b925c4787edf4da2195dfdbc39352f6168a43a8d7218da&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/28979110.jpg?k=b83059927fa46e7761049953c0833da24aae62427d6c20a71ad7383ebb460a5f&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/141760389.jpg?k=4e3ef90c1bc89da0a84e5f5c258b1591051e9772eeaefe734908951c44e38ba0&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/124530621.jpg?k=e9fa53523d252a177b0b0a442831b3481eaed114a485bec90535e3ede6a812ea&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/75469177.jpg?k=f6e218d1a766f92634d590fb8ce07be2ce04d4be54c3aa1b0ed8f8dfa706a805&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/141760416.jpg?k=f997645c9eec46ff99b0ef4490bed488616c6f01155876d074ee9d64a5efac26&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21221360.jpg?k=6a5651b1727cb68231cca5bae6669fb9e9b8f55e0def18138ba47e1589ada1fe&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/141760321.jpg?k=15e4476e06b9fea5cabeee1a6f2bc261d6618cd9d17dfb1fbdce7790919c3d61&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/141760348.jpg?k=ea6c1d1063ddd03155c4981a9c9f378254104ed9925389178676776b2d1ecfbc&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Las Brisas Ixtapa",
+                  "nombre2": "Las Brisas Ixtapa",
+                  "precio": "$18,513.00",
+                  "habitacion1": "Suite Deluxe con Vista al Mar",
+                  "habitacion2": "Bungalow Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Descubre la elegancia y la serenidad en Las Brisas Ixtapa.",
+                  "descripcion2": "Este hotel, ubicado en una colina con vistas panorámicas al océano, ofrece una experiencia única. Con una arquitectura encantadora y servicios excepcionales, tu estancia será inolvidable.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45583248.jpg?k=d9214fcd5b56188f348fa3a62a3145217eb52881f4c6bce6a33e6b3f5bd2983f&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/103843473.jpg?k=f8814997435339cb1e76e604b5148a423f971288a92a11f73cc7a5c2902a10b3&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/147340892.jpg?k=3d99bbbfae3206efa0223112e6b64d122d8f4d8e4012df82799984bea2c03f59&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/103848659.jpg?k=62a219ec281f735d6d47a53ece3f9cf5d2e478571f21ae6f4a8fcfcc7f5e8d63&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/103795677.jpg?k=18fc442f3b3a888109b4c1dff64567e0b460bfa832bc6135d626e4c95035616c&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/103795686.jpg?k=46b81c0eba23128d088e905a72e98c6c33d5b167c76e414a411b394efeac318a&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/103795711.jpg?k=2593a290cba26a52d0ab747d7dbd40dcc317d46cd9de519757f51e588e7b96a2&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/103795734.jpg?k=7a87d7543fca4f8a283f59c2acf1c9079b32a98be1074ea8a98e96ad3615aafe&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/45573617.jpg?k=7d3abb28dfc5cb600726ab79ffbc0896382dcd9b1465d3e3b9605c5b707847a5&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/7128834.jpg?k=708896d440d3d65c25a9b17f04fd3c8fa9d155bb48c567097e90766843a590f5&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Park Royal Beach Ixtapa",
+                  "nombre2": "Park Royal Beach Ixtapa",
+                  "precio": "$23,804.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior con Vista al Mar",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Disfruta de la playa y el confort en Park Royal Beach Ixtapa.",
+                  "descripcion2": "Ubicado en una de las mejores playas de Ixtapa, este hotel ofrece habitaciones cómodas y servicios de alta calidad. Vive momentos inolvidables en la costa del Pacífico.",
+                  "url": "https://moreliatravel.com/wp-content/uploads/2022/02/Park-Royal-Ixtapa-1.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/420638090.jpg?k=b75ad7c7e2bf9c982838368757db25749c30347e721966cdabcf4bb62159ca3f&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/452497568.jpg?k=fe63825826a7cda8322b7e5837f39cb9d3b315022422e5878cd0fdab42ca9393&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/264225167.jpg?k=13c5ad8822d9bbd8670498d4845b7f5293f16e48b46fe0acc75370d88c038c44&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/144236742.jpg?k=2f260af2632716fe480a884cbc45b2550e2e83264995d70525ab40eb291db4e4&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/61235900.jpg?k=9bcfbb6800bf7eda86ac77bdec1f7a7bdc9180840d1c3192b29e5786d372fef7&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/144236743.jpg?k=e1b00351bdf1375d005e944bed36e0d17eb003ec302ed2fb0dc99359398082b4&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/228930963.jpg?k=4a0ec8cbb0ed4601a3d254d7bf46d409a764d0ec78357cec6ce47f69a3cdc882&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/61235812.jpg?k=55b987e0922edd7e5e2329cf7b001a79aa46c0dc173fdffda89c979e6c600a7b&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/61235821.jpg?k=604a9ffb7eb47ded5c53dacd4847bdacadd64c5dfeb3a74068a10854a825a7b5&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Krystal Ixtapa Hotel & Resort",
+                  "nombre2": "Krystal Ixtapa Hotel & Resort",
+                  "precio": "$13,815.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Sumérgete en la belleza de Ixtapa en Krystal Ixtapa Hotel & Resort.",
+                  "descripcion2": "Con una ubicación privilegiada frente al océano, este resort ofrece comodidades excepcionales y vistas impresionantes. Experimenta la hospitalidad mexicana en un entorno paradisíaco.",
+                  "url": "https://img.cdnpth.com/media/iymwXBguLhrmrw9qGjs9ysOxqYA=/720x480/00/13/48/00134890.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/417529590.jpg?k=1e1776fdd6772323a49544b74d7567a068c69487d0002eaad2ae28eb44343d88&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/9248695.jpg?k=a8ef3fc123329c2b73a5f850b60020f12787942e7553774703db69905b0e87a8&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/417529739.jpg?k=6b38231af70852f729a27100a5935da68bf7925de6f4e9987a94cdd3716f59be&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/489984305.jpg?k=500a4ce2b7c7a82bccfc2cf5312f90c50ec22e4e98d847e6022fede73a9a6499&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/491121084.jpg?k=7fca72c777bd7b40cc8181301c85417b1794d95f0ef07d8608c6add3356f2bd4&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/491121634.jpg?k=ff1c6651635f005b1f3bbfcb2669f87365e4345d84fce68e015a9e845b6956df&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/417287872.jpg?k=d8927fa38c3c2369718cc7e99975b684dada36cc2ae7713351ab94573f569e94&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/489984810.jpg?k=f1b029ab50742b1a9a9ad5dc00265f3d679c0094cc91a4a04632b88ae6b85f8c&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/417287903.jpg?k=480ccfd6684b3d0ff95a3c1b8ffccd2edd02e4bc39a033ad464960805fcc9545&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Sunscape Dorado Pacifico Resort & Spa - All Inclusive",
+                  "nombre2": "Sunscape Dorado Pacifico Resort & Spa - All Inclusive",
+                  "precio": "$22,490.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Habitación Deluxe con Terraza",
+                  "habitacion5": "Suite Presidencial",
+                  "descripcion": "Disfruta de unas vacaciones todo incluido en Sunscape Dorado Pacifico.",
+                  "descripcion2": "Este resort ofrece una experiencia única con comodidades de primera clase y vistas espectaculares al océano Pacífico. Descubre el lujo y la diversión en cada rincón.",
+                  "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/10/21/0931/SUDIX-P0001-Aerial-Exterior.jpg/SUDIX-P0001-Aerial-Exterior.16x9.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/d3fc4406.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-2": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/8ccad787.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-3": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/4b9b94e5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-4": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/820c63ed.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-5": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/058002e8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-6": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/2e8bec9b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-7": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/2a00313c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-8": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/c173e9ec.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                      "img-9": "https://images.trvl-media.com/lodging/5000000/4450000/4441000/4440978/8f1cbe50.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Holiday Inn Resort Ixtapa All Inclusive",
+                  "nombre2": "Holiday Inn Resort Ixtapa All Inclusive",
+                  "precio": "$21,666.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior con Vista al Mar",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Experimenta la comodidad y la hospitalidad en Holiday Inn Resort Ixtapa.",
+                  "descripcion2": "Con una ubicación privilegiada frente al mar, este resort ofrece habitaciones elegantes y servicios de alta calidad. Disfruta de la auténtica experiencia todo incluido en Ixtapa.",
+                  "url": "https://digital.ihg.com/is/image/ihg/holiday-inn-resort-ixtapa-zihuatanejo-4454706996-4x3",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/248061821.jpg?k=89f92da1d896ad955874bcc24c162a461b356db7591713750ffcbd768343f9a1&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/422025655.jpg?k=38cf41d82421daeea07bebfbaa53cdf452a3e65e68deeb580eda2b9c3cb71749&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309498002.jpg?k=2df499c8e85034c5dfd5a220e36ebd0fc837b029cf5f8a4705f2f6e876497b5c&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309498032.jpg?k=56b2881ffd34131655c9b676d7c5b19355641cb189d487b75a6255fa7bbd69cc&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309497985.jpg?k=18744b3ac91813e68b1dab23761b08cd6960851c86e2b035f4c8c70f341d4b71&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427491494.jpg?k=a05ca746f6c2c2aaaf59703c84d2709d520c281403ea2a163784dbebd8af50f4&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/287139421.jpg?k=48226bb3273584288783bcf131bb05620223db0f97b31b76f326fcfd4aa1528b&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427228459.jpg?k=f661dd6be027176950414dea7bfbadb59621f425980091f389b079848ea6ab06&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427229322.jpg?k=1ab9771943a1bcfb74bb2eaebf4907a63e006e0cc2ebad1e524772c504408abf&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Tesoro Ixtapa Beach Resort",
+                  "nombre2": "Tesoro Ixtapa Beach Resort",
+                  "precio": "$17,937.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Vive la serenidad y la comodidad en Tesoro Ixtapa Beach Resort.",
+                  "descripcion2": "Este encantador resort frente al mar ofrece habitaciones acogedoras y una variedad de servicios para que disfrutes al máximo tu estancia. Descubre la belleza de Ixtapa desde este paraíso vacacional.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/be/11/67/vista-de-la-alberca-al.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/11614907.jpg?k=4fe9ec18d98651fa5ea3c407bc52b2decbc47d1927c9fce5cb08ad3e47490b28&o=&hp=1",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/26090477.jpg?k=0fb14c12d24384aeeb5d86aa5563a56d7b382987b74ad121868e59404b8d895f&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/26091393.jpg?k=c870d4ffaa5989e7e2f7e7d99e422232e24094cf72c0726550afc2278b7271a8&o=&hp=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/298220794.jpg?k=f1b50100638e5a55b6dfc8e8ed36cd70a33d958f93513b49eb3660c35a8a91f7&o=&hp=1",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/113694010.jpg?k=954a6b3e8a3dafd42df95dd8ee6189089832826a549195e3e9193a5bd877a122&o=&hp=1",
+                      "img-6": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/113695681.jpg?k=a67e23ac9594f7069e72a79d259fd4eb743e40f4199e7296f7acca1b78a71525&o=&hp=1",
+                      "img-7": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/26091387.jpg?k=fdfa35edca6dae2ba669b61d5fb55977657c1b924c2035752f8fe2207412435f&o=&hp=1",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/26090470.jpg?k=4ff8a875c7b32c8ddf977daa94d992f1dc6a237e7e685a7dcaa6f74923685a68&o=&hp=1",
+                      "img-9": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/11614873.jpg?k=a4b9b929d2328c2f989ae9c246c95e1dd59110f83b5b6c1fe923a8a8d6e563f2&o=&hp=1"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Azul Ixtapa All Inclusive Beach Resort & Convention Center",
+                  "nombre2": "Azul Ixtapa All Inclusive Beach Resort & Convention Center",
+                  "precio": "$19,882.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe Todo Incluido",
+                  "descripcion": "Sumérgete en la belleza y el confort en Azul Ixtapa.",
+                  "descripcion2": "Con una ubicación ideal en la playa, este resort ofrece una experiencia todo incluido excepcional. Disfruta de la piscina, la playa y las delicias gastronómicas en este destino paradisíaco.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422311894.jpg?k=b54001cd44daccc4e319aa65ffa55c1415c567ffd5e96e1d434baace1206d0a7&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.azulixtapa.com/media/xzugcw44/albercas-azul-ai-1.jpg",
+                      "img-2": "https://www.azulixtapa.com/media/xhods2rf/deluxe-vista-la-mar-con-balc%C3%B3n-1a.jpg",
+                      "img-3": "https://www.azulixtapa.com/media/lzhkigoe/restaurante-colores-ai-1.jpg",
+                      "img-4": "https://www.azulixtapa.com/media/i2hpuxvf/restaurante-plaza-mexicana-ai-1.jpg",
+                      "img-5": "https://www.azulixtapa.com/media/tslhyluv/suite-presidencial-ai-1.jpg",
+                      "img-6": "https://www.azulixtapa.com/media/hntdob4u/alberca-azul-1.jpg",
+                      "img-7": "https://www.azulixtapa.com/media/mdbp0mju/boda-oyster-bar-azul-2.jpg",
+                      "img-8": "https://www.azulixtapa.com/media/zk0lvtpq/restaurante-flor-de-agave-aig-1.jpg",
+                      "img-9": "https://www.azulixtapa.com/media/nyooctk1/spa-relajaci%C3%B3n-aig-1.jpg"
+                    }                  
+                  ]
+              }            
+            ],
+            "descripcion1": "Combina lujo y tradición en Ixtapa-Zihuatanejo",
+            "descripcion2": "Relájate en las aguas tranquilas de Zihuatanejo",
+            "descripcion3": "Ixtapa-Zihuatanejo, con su combinación de modernidad y autenticidad, es un destino ideal para aquellos que buscan relajación y exploración. Con playas de arena suave, una marina pintoresca y una rica oferta gastronómica, este destino ofrece una escapada serena en la costa del Pacífico."
+        },
+        {
+            "nombre": "acapulco",
+            "nombre2": "Acapulco",
+            "descripcion": "Acapulco es un icónico destino turístico ubicado en la costa del Pacífico mexicano, en el estado de Guerrero. Conocido por sus impresionantes acantilados y playas de arena dorada.",
+            "image": "https://mediaim.expedia.com/destination/1/5d7bb1dd49b2d00a0c05e47a60c1357e.jpg",
+            "hoteles": [
+              {
+                  "nombre": "Park Royal Beach Acapulco",
+                  "nombre2": "Park Royal Beach Acapulco",
+                  "precio": "$16,840.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Experimenta el encanto de Acapulco en Park Royal Beach.",
+                  "descripcion2": "Ubicado en una de las playas más hermosas de Acapulco, este resort ofrece habitaciones cómodas y servicios de calidad. Disfruta de la vista al mar y sumérgete en la piscina para unas vacaciones inolvidables.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421691716.jpg?k=8f444a5d8af200248780bd44faa396906e426206099f64a93d4ccd2657b358ec&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://cdn2.paraty.es/parkroyal-corpo/images/6369fd98d5aba41",
+                      "img-2": "https://cdn2.paraty.es/parkroyal-corpo/images/a97787d774c71a7",
+                      "img-3": "https://cdn2.paraty.es/parkroyal-corpo/images/a57a4ff25d2305c",
+                      "img-4": "https://cdn2.paraty.es/parkroyal-corpo/images/e6dda4b940fbaa2",
+                      "img-5": "https://cdn2.paraty.es/parkroyal-corpo/images/1178d4034bab345",
+                      "img-6": "https://cdn2.paraty.es/parkroyal-corpo/images/74530a03e2a7a50",
+                      "img-7": "https://cdn2.paraty.es/parkroyal-corpo/images/28a90ba18df5210",
+                      "img-8": "https://cdn2.paraty.es/parkroyal-corpo/images/7473eec8220ed43",
+                      "img-9": "https://cdn2.paraty.es/parkroyal-corpo/images/ec63845d4ee5265"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Gamma Acapulco Copacabana",
+                  "nombre2": "Gamma Acapulco Copacabana",
+                  "precio": "$10,387.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Descubre la hospitalidad en Gamma Acapulco Copacabana.",
+                  "descripcion2": "Con una ubicación estratégica cerca de la playa, este hotel ofrece alojamientos acogedores y comodidades modernas. Disfruta de la piscina y explora las maravillas de Acapulco desde este encantador destino.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349577975.jpg?k=bec2e0a9137412d2ce8513552604e1b8215aa72af1a273240301245962e1bf88&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://image-tc.galaxy.tf/wijpeg-b15gpvfw3tepdrekttu25g10u/fachada-gacco_wide.jpg?crop=0%2C94%2C1800%2C1013&width=2000",
+                      "img-2": "https://cuponassets.cuponatic-latam.com/backendMx/uploads/imagenes_descuentos/43229/2b66fddea8ea9f51be711ca86bedadd165bc101c.XL2.jpg",
+                      "img-3": "https://cdn0.bodas.com.mx/vendor/8666/3_2/960/jpg/138412927-198965758568122-6238755796740833555-o_5_308666-161062682787546.jpeg",
+                      "img-4": "https://photos.hotelbeds.com/giata/bigger/00/005294/005294a_hb_l_001.jpg",
+                      "img-5": "https://photos.hotelbeds.com/giata/bigger/00/005294/005294a_hb_ro_030.jpg",
+                      "img-6": "https://copacabana-beach-hotel-acapulco.hotelsinacapulco.net/data/Photos/OriginalPhoto/12735/1273536/1273536328/photo-copacabana-beach-hotel-acapulco-5.JPEG",
+                      "img-7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0-rQtvt9HBbmaG1HqPfmkw__l_qTFiOHQw&usqp=CAU",
+                      "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQS7rWF-qZ3nt574wBh7Yb8PiRZnWqZzrzw&usqp=CAU",
+                      "img-9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSswoggv59jYFWHA7z0MWTSnd2soOBMFuoFRbNv6TbYc4yQ4Z7uBDn9KpKVle01DI594&usqp=CAU"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Encanto Acapulco",
+                  "nombre2": "Encanto Acapulco",
+                  "precio": "$63,996.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Sumérgete en el lujo y la elegancia en Encanto Acapulco.",
+                  "descripcion2": "Con vistas impresionantes al océano, este resort ofrece un ambiente de tranquilidad y sofisticación. Las habitaciones bien equipadas y las instalaciones de primera clase te brindarán una experiencia inolvidable en Acapulco.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/b0/3b/05/hotel-encanto.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.encantoacapulco.mx/images/lib/slider/7.jpg",
+                      "img-2": "https://www.encantoacapulco.mx/images/lib/slider/14.jpg",
+                      "img-3": "https://foodandtravel.mx/wp-content/uploads/2023/08/Hotel-Encanto-Acapulco.jpg",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379839114.jpg?k=68a962459c1e4cef4e84d919599143b5ba1ba9f4a86dd29020b9329815e4f8f4&o=&hp=1",
+                      "img-5": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/b0/3b/05/hotel-encanto.jpg?w=700&h=-1&s=1",
+                      "img-6": "https://fastly.4sqi.net/img/general/600x600/62150735_vuWl0YG-7xWMqesL0Erdd0W-6aJcAUWoSxi3syqUgbM.jpg",
+                      "img-7": "https://images.trvl-media.com/hotels/1000000/880000/874000/873931/a7988edf_z.jpg",
+                      "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwdLooZbyfiH0WBPw6syZBy1CyHJGu5BDQtUcMvhmWLQKDXaj6osB1SoiOkVno7UGFZvE&usqp=CAU",
+                      "img-9": "https://images.trvl-media.com/hotels/1000000/880000/874000/873931/3553ffb6_z.jpg"
+                    }                  
+                  ]
+              }            
+            ],
+            "descripcion1": "Revive la elegancia de Acapulco",
+            "descripcion2": "Disfruta de sus icónicos acantilados y la vida nocturna",
+            "descripcion3": "Acapulco, conocido por sus playas doradas y su animada vida nocturna, ofrece una experiencia vibrante en la costa del Pacífico. Con sus famosos acantilados de La Quebrada, resorts de lujo y entretenimiento inigualable, Acapulco es un destino que combina la emoción con la relajación."
+        },
+        {
+            "nombre": "huatulco",
+            "nombre2": "Huatulco",
+            "descripcion": "Huatulco ofrece un entorno paradisíaco para los visitantes que buscan relajarse y disfrutar de la belleza del océano. Este destino cuenta con varias bahías y playas,",
+            "image": "https://rh-destinations.com/wp-content/uploads/2021/11/aerea-huatulco.jpg",
+            "hoteles": [
+              {
+                  "nombre": "Las Brisas Huatulco",
+                  "nombre2": "Las Brisas Huatulco",
+                  "precio": "$28,344.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Experimenta la belleza de Huatulco en Las Brisas.",
+                  "descripcion2": "Este resort ofrece habitaciones elegantes y vistas espectaculares al mar. Disfruta de la privacidad de tu propia terraza y sumérgete en las aguas cristalinas de la piscina para una estancia inolvidable.",
+                  "url": "https://revistadigital.mx/wp-content/uploads/2023/07/MD-072023-BRISASHUATULCO-15.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://scontent.fcjs3-2.fna.fbcdn.net/v/t39.30808-6/366325946_670198921804704_3021395497691854967_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=6omldePkpg0AX9JsNwa&_nc_ht=scontent.fcjs3-2.fna&oh=00_AfDzR8VK4cbmsw_DkgDhTAVXagTShrXhyNHGz4WQRKDXJA&oe=65AB4684",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208754158.jpg?k=42943342aecbf577acd3f19621b74cb8e099acef8383bd688a79fff94e89a0be&o=&hp=1",
+                      "img-3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/c7/3f/f2/las-brisas-huatulco.jpg?w=700&h=-1&s=1",
+                      "img-4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/81429333.jpg?k=ff37ed24e4a682e867b107c2329b3f9844802130cc0cc976a9e4bee80ead4892&o=&hp=1",
+                      "img-5": "https://www.gtoviaja.com/wp-content/uploads/2016/07/huat.jpg",
+                      "img-6": "https://las-brisas.hotelsinhuatulco.com/data/Images/OriginalPhoto/12790/1279098/1279098649/image-santa-cruz-huatulco-las-brisas-hotel-5.JPEG",
+                      "img-7": "https://www.lasbrisashotels.com.mx/wp-content/uploads/2016/10/162-Lobby-02-03-RTRS-160927_For_Web-1600x552.jpg",
+                      "img-8": "https://foto.hrsstatic.com/fotos/0/2/1024/685/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F3%2F6%2F7%2F6%2F367601%2F367601_rt_9330558.jpg/0tcgewHsZiN1AXbTV5YL4w%3D%3D/512%2C342/6/Las_Brisas_Huatulco_Summit-Santa_Maria_Huatulco-Restaurant-4-367601.jpg",
+                      "img-9": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://media.iceportal.com/123193/photos/65355265_XL/Las-Brisas-Huatulco-Restaurant.jpg?tr=w-750%2Ch-420%2Cfo-auto"
+                    }                  
+                  ]
+              },
+              {
+                  "nombre": "Barcelo Huatulco - All Inclusive",
+                  "nombre2": "Barceló Huatulco - All Inclusive",
+                  "precio": "$19,543.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Disfruta de la experiencia todo incluido en Barceló Huatulco.",
+                  "descripcion2": "Con una ubicación privilegiada en la bahía de Tangolunda, este hotel ofrece comodidades de lujo y actividades emocionantes. Desde la piscina hasta las opciones gastronómicas, tu estancia será memorable.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/27223763.jpg?k=c60f7ef710ee027cef1e00cc08ae05eaff67e18ee1da4974d8f1145e9f9967f8&o=&hp=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.kayak.com.pa/rimg/himg/ba/8b/18/ice-12150-2068704_3XL-242030.jpg?width=1366&height=768&xhint=1555&yhint=960&crop=true",
+                      "img-2": "https://images.trvl-media.com/lodging/1000000/870000/870000/869970/c7f610bd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-3": "https://images.trvl-media.com/lodging/1000000/870000/870000/869970/adc4f71a.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                      "img-4": "https://escapadas.mexicodesconocido.com.mx/wp-content/uploads/2020/10/1657787092917.jpeg",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89360628.jpg?k=336fa84c8b21fe52586fe1e4a87a44848201b43da3901127177b0bf595c19a51&o=&hp=1",
+                      "img-6": "https://mexiviajes.com/wp-content/uploads/2022/03/BarceloHux29-768x511.webp",
+                      "img-7": "https://img.cdnpth.com/media/DRYYYmTc7LYCEBmjOVK_Jq51qUs=/720x480/02/53/19/02531946.jpg",
+                      "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMf8AAc2QrGxsw-zTkIqy52isA68B4icXbDQ&usqp=CAU",
+                      "img-9": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_600,q_auto,w_600//hotelier-images/14/4e/9e3713ae0088aa9c6a3a77093a5f7f89caf41955b6f11b074775be7e87a5.jpeg"
+                    }                  
+                  ]
+              },            
+              {
+                  "nombre": "Quinta Real Huatulco",
+                  "nombre2": "Quinta Real Huatulco",
+                  "precio": "$16,361.00",
+                  "habitacion1": "Habitación Estándar con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Descubre la elegancia en Quinta Real Huatulco.",
+                  "descripcion2": "Este hotel boutique ofrece alojamientos de lujo con vistas panorámicas al océano. Sumérgete en la piscina o relájate en tu terraza privada mientras disfrutas de la belleza natural que Huatulco tiene para ofrecer.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/51/5c/19/0003-qr-huatulco-1-aereas.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.hoteleshuatulco.com.mx/img/hoteles/19/thumb0_2.jpg",
+                      "img-2": "https://cdn0.bodas.com.mx/vendor/4265/3_2/960/jpg/0002-qr-huatulco-1-aereas-0862_5_44265-1560433565.jpeg",
+                      "img-3": "https://www.hoteleshuatulco.com.mx/img/hoteles/19/thumb0_2.jpg",
+                      "img-4": "https://y.cdrst.com/foto/hotel-sf/4576/granderesp/quinta-real-huatulco-habitacion-f80d93f.jpg",
+                      "img-5": "https://d363suj4pdptk4.cloudfront.net/externalApps/b4327255-bda1-4003-b27c-e8196c8a5cc1/conversion/slide/assets/3080161",
+                      "img-6": "https://content.r9cdn.net/rimg/himg/e4/96/76/leonardo-45569-147406858-254937.jpg?width=1200&height=630&crop=true",
+                      "img-7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4Qn_BAfOdxWe7w6EWlSZ5hI8gBQhz-eg0Q&usqp=CAU",
+                      "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHsDuinTisqrYBjVoL3k380vQjca0wkp9qrQS8iASv1q2r6Isliyu1SpDzMl4AhKpbAs&usqp=CAU",
+                      "img-9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7J0J-g82_6Wx1Xrrltp8JsKyDQYwWsNT0w&usqp=CAU"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Binniguenda Huatulco & Beach Club",
+                  "nombre2": "Binniguenda Huatulco & Beach Club",
+                  "precio": "$19,627.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Experimenta la hospitalidad en Binniguenda Huatulco.",
+                  "descripcion2": "Con acceso a su propio club de playa, este hotel ofrece un ambiente relajado y cómodo. Disfruta de las actividades acuáticas y relájate en la playa para unas vacaciones inolvidables.",
+                  "url": "https://www.binniguendahuatulco.com.mx/img/index/header2.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.binniguendahuatulco.com.mx/img/index/pool.jpg",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268392718.jpg?k=8bdb9f0e68871c997e7fef6996bed3dc9f2c1eabb9f1f4c446599cde3176bd94&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318277458.jpg?k=9909109ad8cf3568b0c47963d3d280e36bfb47bd4ed1e2e2764dc11a80c3046c&o=&hp=1",
+                      "img-4": "https://www.binniguendahuatulco.com.mx/img/index/header4.jpg",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92909737.jpg?k=d04c5beadad992008228307213e6c4d1d28f452b4c2c0a7160af97e97139dc41&o=&hp=1",
+                      "img-6": "https://www.binniguendahuatulco.com.mx/img/concept/header_2.jpg",
+                      "img-7": "https://cdn5.travelconline.com/unsafe/fit-in/2000x0/filters:quality(75):format(webp)/https%3A%2F%2Fi.travelapi.com%2Flodging%2F1000000%2F910000%2F903700%2F903659%2Fb0fdf5a6_z.jpg",
+                      "img-8": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268496154.jpg?k=26bd84914675f03ffbcfd55c14a646bdbde4d5dad90a583c66064e5b2a8ee3a8&o=&hp=1",
+                      "img-9": "https://www.binniguendahuatulco.com.mx/img/index/hux_rotator3.jpg"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Park Royal Beach Huatulco",
+                  "nombre2": "Park Royal Beach Huatulco",
+                  "precio": "$21,173.00",
+                  "habitacion1": "Habitación Estándar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Balcón",
+                  "descripcion": "Disfruta de la playa en Park Royal Beach Huatulco.",
+                  "descripcion2": "Este hotel ofrece una ubicación frente al mar con habitaciones cómodas y vistas espectaculares. Relájate en la playa o disfruta de las comodidades del resort para unas vacaciones inolvidables.",
+                  "url": "https://cdn2.paraty.es/parkroyal-corpo/images/fee625671c27f97",
+                  "galeria": [
+                    {
+                      "img-1": "https://cdn2.paraty.es/parkroyal-corpo/images/79c639fb13a69a7",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463465880.jpg?k=6f37ddaad4207502de8d8dc03170c10def76a2bcd9ef0e86fa0846072c496d5e&o=&hp=1",
+                      "img-3": "https://cdn2.paraty.es/parkroyal-corpo/images/84c06fcec7dbf5a",
+                      "img-4": "https://royalholiday.travel/wp-content/uploads/2021/03/1-AEREA-DE-HUATULCO-1170x658.jpg",
+                      "img-5": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222724953.jpg?k=60a54fb5aacecc789515d9e5ec2bb0af6c34a4320afb0ffbb98d4c9ecf6ac230&o=&hp=1",
+                      "img-6": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1ews-Uj5uO-TZZdYSMN6slT17aVLF6Q5K13iG2_Q0nhect2omSc52cOAZqNUwVcLp70&usqp=CAU",
+                      "img-7": "https://media-cdn.tripadvisor.com/media/photo-s/05/37/3f/49/crown-pacific-huatulco.jpg",
+                      "img-8": "https://cdn2.paraty.es/parkroyal-corpo/images/2af718e50ee524b",
+                      "img-9": "https://www.familyvacationcritic.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/sites/19/2017/11/park-royal-huatulco.jpg.webp"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Dreams Huatulco Resort & Spa",
+                  "nombre2": "Dreams Huatulco Resort & Spa",
+                  "precio": "$28,621.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Vive el lujo en Dreams Huatulco Resort & Spa.",
+                  "descripcion2": "Con una ubicación excepcional en la bahía de Tangolunda, este resort ofrece servicios de clase mundial y vistas panorámicas. Disfruta de la playa, las piscinas y la experiencia todo incluido.",
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c0/cc/b4/playa-tangolunda.jpg?w=700&h=-1&s=1",
+                  "galeria": [
+                    {
+                      "img-1": "https://www.viajabonito.mx/wp-content/uploads/2021/08/Dreams-Huatulco-Resort-y-Spa-poerada.jpg",
+                      "img-2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/178257652.jpg?k=4cad97ea3c32896ff31a66c89ded6ff37494289edf59a50203bd900cd35d72ee&o=&hp=1",
+                      "img-3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116875440.jpg?k=53364ea98a2d858b113488e9eae6e5d1e598bdfc07dc4b8e2df2cf2885b874d5&o=&hp=1",
+                      "img-4": "https://www.es.kayak.com/rimg/himg/33/71/b4/expediav2-25688-c2da99-726834.jpg?width=1366&height=768&crop=true",
+                      "img-5": "https://www.oyster.com/wp-content/uploads/sites/35/2019/05/adults-only-infinity-pool-v14730972-1440-1024x683.jpg",
+                      "img-6": "https://www.hoteleshuatulco.com.mx/img/hoteles/8/thumb0_3.jpg",
+                      "img-7": "https://pix10.agoda.net/hotelImages/2673028/-1/d2040698deb696caa9c92590ea3333ee.jpg?ca=20&ce=0",
+                      "img-8": "https://dreams-resort-spa.hotelsinhuatulco.com/data/Images/OriginalPhoto/6405/640511/640511184/image-santa-cruz-huatulco-dreams-resort-spa-10.JPEG",
+                      "img-9": "https://dreams-resort-spa.hotels-oaxaca.com/data/Photos/OriginalPhoto/6405/640511/640511034/photo-dreams-resort-spa-santa-cruz-huatulco-6.JPEG"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Secrets Huatulco Resort & Spa",
+                  "nombre2": "Secrets Huatulco Resort & Spa",
+                  "precio": "$22,897.00",
+                  "habitacion1": "Habitación Deluxe con Vista al Mar",
+                  "habitacion2": "Suite Junior",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Descubre el lujo en Secrets Huatulco Resort & Spa.",
+                  "descripcion2": "Este resort solo para adultos ofrece una experiencia exclusiva frente al mar. Con suites elegantes, restaurantes gourmet y entretenimiento nocturno, cada momento será inolvidable.",
+                  "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/10/20/1555/SECHU-P0001-Aerial-Exterior.jpg/SECHU-P0001-Aerial-Exterior.16x9.jpg",
+                  "galeria": [
+                    {
+                      "img-1": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/10/20/1555/SECHU-P0001-Aerial-Exterior.jpg/SECHU-P0001-Aerial-Exterior.16x9.jpg",
+                      "img-2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c0/49/03/secrets-huatulco-resort.jpg?w=700&h=-1&s=1",
+                      "img-3": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/19/1407/SECHU-P0008-Junior-Suite-Whirlpool-King.jpg/SECHU-P0008-Junior-Suite-Whirlpool-King.16x9.jpg?imwidth=1280",
+                      "img-4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgXWtZjtIadNUmeaK-cmXD1Kdr2YFcIW1YQ&usqp=CAU",
+                      "img-5": "https://scontent.fcjs3-1.fna.fbcdn.net/v/t39.30808-6/283456268_5035504533194783_3308689008621655571_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=b50f6c&_nc_ohc=UYmpBXa1J8sAX-KoJSP&_nc_ht=scontent.fcjs3-1.fna&oh=00_AfDHcUctQw_0XUPYwIkea8_sYbCkeYpyBQK3Srj6-suIfA&oe=65ACDFDB",
+                      "img-6": "https://ik.imgkit.net/3vlqs5axxjf/external/http://images.ntmllc.com/v4/Hotel/T69/T69220/T69220_EXT_ZA3973.JPG?tr=w-1200%2Cfo-auto%2Cdi-ami-fallback.png",
+                      "img-7": "https://www.gentleman.excelsior.com.mx/wp-content/uploads/2021/07/web.SECHU_Pools1_Aerial_1A.jpg",
+                      "img-8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7-fGIeMA0qKoLDR0FjfGHFDA4bmfQCQa8Q&usqp=CAU",
+                      "img-9": "https://periodicoviaje.com/wp-content/uploads/2020/11/Secrets-y-Dreams-Huatulco.jpg"
+                    }
+                  ]
+              },            
+              {
+                  "nombre": "Celeste Beach Residences Huatulco Curamoria Collection",
+                  "nombre2": "Celeste Beach Residences Huatulco Curamoria Collection",
+                  "precio": "$24,325.00",
+                  "habitacion1": "Suite de Lujo con Vista al Mar",
+                  "habitacion2": "Suite Familiar",
+                  "habitacion3": "Habitación Familiar",
+                  "habitacion4": "Suite Presidencial",
+                  "habitacion5": "Habitación Deluxe con Terraza",
+                  "descripcion": "Vive la exclusividad en Celeste Beach Residences.",
+                  "descripcion2": "Con una ubicación privilegiada, este resort ofrece residencias de lujo frente al mar. Disfruta de la privacidad y las comodidades de una casa, junto con servicios de un resort de primera clase.",
+                  "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372314269.jpg?k=7b7b04787995537000fb6e8a03808137b045bae56af3f06b931bc6b84623d39e&o=&hp=1",
+                  "galeria": [
+                    {
+                        "img-1": "https://lh3.googleusercontent.com/proxy/cu-vQ4HLGe8ByT8_fg-8pIxb_bMRDB-F-gVU5jxuwpCjVraj89VT2JQimZS7b9kcbPFailnhjzQ5huVIM_My8CU0DIOurMUV4ZYyxcc",
+                        "img-2": "https://image-tc.galaxy.tf/wijpeg-7a1p2hi7ti05noyetdpjrh1sk/fachada-aa-rea-2_standard.jpg?crop=41%2C0%2C1044%2C783&width=1000",
+                        "img-3": "https://image-tc.galaxy.tf/wijpeg-uivfo5f2ugyzme7t0hv6q8hv/_photo.jpg",
+                        "img-4": "https://image-tc.galaxy.tf/wijpeg-3ymiqxo7tqkq1ubqr55uydvc7/alberca-1_standard.jpg?crop=41%2C0%2C1044%2C783&width=1000",
+                        "img-5": "https://image-tc.galaxy.tf/wijpeg-c5jdmkve2z089xpw8ffb0nibq/facilities-gym-3_standard.jpg?crop=0%2C0%2C1125%2C844&width=1000",
+                        "img-6": "https://lh3.googleusercontent.com/proxy/eRY6tObbnb3uA2l7E0Av1oT0AUaa-EKSUUvz-ulYNdtb-NH05KPT55cMkyhvmfC9lQrPuuHhpdAPQFyWdS7Fc0cgSo6_k4f70873AKk",
+                        "img-7": "https://image-tc.galaxy.tf/wijpeg-7nmu40ttcqesg1srcem93gugd/restaurante-pui-r-cava-1_standard.jpg?crop=169%2C0%2C788%2C591&width=800",
+                        "img-8": "https://images.trvl-media.com/lodging/49000000/48830000/48821600/48821600/af4a2caa_z.jpg",
+                        "img-9": "https://nitu.mx/wp-content/uploads/2022/07/Curamoria-Collection-Huatulco.jpg"
+                    }                  
+                  ]
+              }            
+            ],
+            "descripcion1": "Explora la belleza natural de Huatulco",
+            "descripcion2": "Descubre las playas vírgenes y la rica biodiversidad",
+            "descripcion3": "Ubicado en la costa del Pacífico, Huatulco es un destino que combina la exuberante naturaleza con instalaciones turísticas de primer nivel. Con 9 bahías y 36 playas, ofrece un entorno idílico para los amantes de la playa y los aventureros que buscan explorar la selva circundante."
+        }
+    ]
+  }
