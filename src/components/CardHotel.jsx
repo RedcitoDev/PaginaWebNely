@@ -13,7 +13,7 @@ const CardHotel = ({ imageHotel, nombreHotel, precioHotel, descripcionHotel }) =
               <h5 className='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>{nombreHotel}</h5>
             </a>
             <div className='flex gap-5 text-center py-5'>
-              <p className='text-xl md:text-4xl hover:text-blue-800 font-bold text-blue-700'>
+              <p className='text-4xl md:text-4xl hover:text-blue-800 font-bold text-blue-700'>
                 <span>{precioHotel}</span>
                 <span className='text-sm font-regular no-underline'>MXN</span>
               </p>

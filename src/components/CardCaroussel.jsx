@@ -182,132 +182,132 @@ export default function CardCaroussel() {
                                 <div id="slider" className="h-full flex lg:gap-8 md:gap-6 gap-14 items-center justify-start transition ease-out duration-700">
                                     <Slide index={0}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/fDngH9G/carosel-1.png" alt="black chair and white table" className="object-cover object-center w-full" />
+                                            <img src={Cancun} alt="black chair and white table" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 1</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Cancún</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={1}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/DWrGxX6/carosel-2.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={RivieraMaya} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Riviera Mya</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={2}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/tCfVky2/carosel-3.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={LosCabos} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Los Cabos</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={3}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/rFsGfr5/carosel-4.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={PuertoVallarta} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Puerto Vallarta</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={4}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/fDngH9G/carosel-1.png" alt="black chair and white table" className="object-cover object-center w-full" />
+                                            <img src={NuevoVallarta} alt="black chair and white table" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Nuevo Vallarta</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={5}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/DWrGxX6/carosel-2.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Mazatlan} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Mazatlán</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={6}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/tCfVky2/carosel-3.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Ixtapa} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Ixtapa Zihuatanejo</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={7}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/rFsGfr5/carosel-4.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Acapulco} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Acapulco</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={8}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/fDngH9G/carosel-1.png" alt="black chair and white table" className="object-cover object-center w-full" />
+                                            <img src={Huatulco} alt="black chair and white table" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="texlg:t-xl le leading-4 text-basealg:ding-tight text-white">Catalog 2</h2>
+                                                <h2 className="texlg:t-xl le leading-4 text-basealg:ding-tight text-white">Huatulco</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={9}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/DWrGxX6/carosel-2.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Cancun} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Cancún</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={10}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/tCfVky2/carosel-3.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={RivieraMaya} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Riviera Maya</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={11}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/rFsGfr5/carosel-4.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={LosCabos} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Los Cabos</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -336,132 +336,132 @@ export default function CardCaroussel() {
                                 <div id="slider" className="h-full w-full flex lg:gap-8 md:gap-6 items-center justify-start transition ease-out duration-700">
                                     <Slide index={0}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/fDngH9G/carosel-1.png" alt="black chair and white table" className="object-cover object-center w-full" />
+                                            <img src={Cancun} alt="black chair and white table" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 1</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Cancún</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={1}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/DWrGxX6/carosel-2.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={RivieraMaya} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Riviera Maya</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={2}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/tCfVky2/carosel-3.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={LosCabos} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Los Cabos</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={3}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/rFsGfr5/carosel-4.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={PuertoVallarta} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Puerto Vallarta</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={4}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/fDngH9G/carosel-1.png" alt="black chair and white table" className="object-cover object-center w-full" />
+                                            <img src={NuevoVallarta} alt="black chair and white table" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Nuevo Vallarta</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={5}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/DWrGxX6/carosel-2.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Mazatlan} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Mazatlán</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={6}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/tCfVky2/carosel-3.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Ixtapa} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Ixtapa Zihuatanejo</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={7}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/rFsGfr5/carosel-4.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Acapulco} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Acapulco</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={8}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/fDngH9G/carosel-1.png" alt="black chair and white table" className="object-cover object-center w-full" />
+                                            <img src={Huatulco} alt="black chair and white table" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="texlg:t-xl le leading-4 text-basealg:ding-tight text-white">Catalog 2</h2>
+                                                <h2 className="texlg:t-xl le leading-4 text-basealg:ding-tight text-white">Huatulco</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={9}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/DWrGxX6/carosel-2.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={Cancun} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Cancún</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={10}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/tCfVky2/carosel-3.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={RivieraMaya} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Riviera Maya</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </Slide>
                                     <Slide index={11}>
                                         <div className="flex flex-shrink-0 relative w-full sm:w-auto">
-                                            <img src="https://i.ibb.co/rFsGfr5/carosel-4.png" alt="sitting area" className="object-cover object-center w-full" />
+                                            <img src={LosCabos} alt="sitting area" className="object-cover object-center w-full" />
                                             <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                                <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Los Cabos</h2>
                                                 <div className="flex h-full items-end pb-6">
-                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                    <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Ver hoteles</h3>
                                                 </div>
                                             </div>
                                         </div>

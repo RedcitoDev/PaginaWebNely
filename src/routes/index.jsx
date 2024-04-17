@@ -111,7 +111,7 @@ export default function Index() {
                 </section>
             </section>
             <section className="bg-blue-600">
-                <div className="flex justify-center py-20 gap-40">
+                <div className="md:flex justify-center py-20 px-5 md:px-0 gap-40">
                     <div>
                         <p className="text-4xl font-bold text-white">Preguntas Frecuentes</p>
                         <p className="text-white font-light">No encuentras la pregunta que estas buscando, no te preocupes <br /> <a className="font-bold hover:text-indigo-900" href="/contacto">Contactanos</a></p>

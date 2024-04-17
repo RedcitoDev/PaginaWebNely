@@ -35,10 +35,10 @@ export default function Contact() {
       </div>
       
       <section>
-        <nav className="text-center py-10 bg-">
+        <nav className="text-center py-10">
           {navDestinos.map(destino => (
-            <a href="#" className="py-5 px-2" key={destino.nombre} onClick={() => handleDestinoClick(destino)}>
-              <span className={`bg-blue-600 hover:bg-blue-800 py-2 px-5 text-white rounded-badge ${selectedDestino.nombre === destino.nombre ? 'bg-blue-800' : ''}`}>{destino.nombre2}</span>
+            <a href="#" className="md:py-5 md:px-2 py-2 px-1" key={destino.nombre} onClick={() => handleDestinoClick(destino)}>
+              <span className={`bg-blue-600 md:text-md text-sm hover:bg-blue-800 py-1 px-2 md:py-2 md:px-5 text-white rounded-badge ${selectedDestino.nombre === destino.nombre ? 'bg-blue-800' : ''}`}>{destino.nombre2}</span>
             </a>
           ))}
         </nav>
@@ -49,11 +49,11 @@ export default function Contact() {
         </Marquee>
        
         <div>
-          <div className="columns-3 py-10 px-20">
+          <div className="grid md:grid-rows-3 md:grid-flow-col md:gap-10 justify-center">
             {filteredHoteles.map((hotel, index) => (
-              <div key={index}>
+              <div className='md:hover:scale-105 md:hover:duration-300 md:hover:ease-in-out' key={index}>
                 {/* Pasar el precio modificado al componente CardHotel */}
-                <CardHotel imageHotel={hotel.url} nombreHotel={hotel.nombre2} precioHotel={`$${hotel.precio}`} />
+                <CardHotel key={index} imageHotel={hotel.url} nombreHotel={hotel.nombre2} precioHotel={`$${hotel.precio}`} />
               </div>
             ))}
           </div>
