@@ -1,4 +1,7 @@
 import React from 'react';
+import { Star } from 'lucide-react';
+import { Accordion } from "flowbite-react";
+
 
 const CardHotel = ({ imageHotel, nombreHotel, precioHotel, descripcionHotel }) => {
   return (
@@ -9,9 +12,22 @@ const CardHotel = ({ imageHotel, nombreHotel, precioHotel, descripcionHotel }) =
             <img className='rounded-t-lg object-cover w-full h-56' src={imageHotel} alt={nombreHotel} style={{ objectFit: 'cover' }} />
           </a>
           <div className='p-5'>
-            <a href="#">
-              <h5 className='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>{nombreHotel}</h5>
-            </a>
+              <a href="#">
+                  <h5 className='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>{nombreHotel}</h5>
+                  <p className='flex gap-2'><Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /></p>
+                  <div className='py-5'>   
+                      <Accordion>
+                          <Accordion.Panel>
+                              <Accordion.Title>Ver información</Accordion.Title>
+                              <Accordion.Content>
+                              <p className="mb-2 text-gray-500 dark:text-gray-400">
+                                  {descripcionHotel}
+                              </p>
+                              </Accordion.Content>
+                          </Accordion.Panel>
+                      </Accordion>
+                  </div>
+              </a>
             <div className='flex gap-5 text-center py-5'>
               <p className='text-4xl md:text-4xl hover:text-blue-800 font-bold text-blue-700'>
                 <span>{precioHotel}</span>

@@ -58,6 +58,7 @@ export default function Contact() {
                   nombreHotel={hotel.nombre2} 
                   precioHotel={hotel.precio + 6000} 
                   precioDescuento={hotel.precio - 6000} 
+                  descripcionHotel={hotel.descripcion2} 
                 />
               </div>
             ))}
