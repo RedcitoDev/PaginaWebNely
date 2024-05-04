@@ -8,32 +8,32 @@ const CardHotelOfertas = ({imageHotel, nombreHotel, precioHotel, descripcionHote
   return (
     <div>
         <section>
-            <div className='max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700'>
+            <div className='max-w-sm bg-white border border-gray-200 rounded-lg shadow hover:shadow-2xl hover:duration-300 hover:ease-out dark:bg-gray-800 dark:border-gray-700'>
                 <a href="#">
-                    <img className='rounded-t-lg object-cover w-full h-48' src={imageHotel} alt={nombreHotel} />
+                    <img className='rounded-t-lg object-cover w-full h-full' src={imageHotel} alt={nombreHotel} />
                 </a>
-                <div className='p-5'>
+                <div className='text-center p-5'>
                     <a href="#">
-                        <h5 className='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>{nombreHotel}</h5>
-                        <p className='flex gap-2'><Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /></p>
-                        <div className='py-5'>   
-                            <Accordion>
-                                <Accordion.Panel>
-                                    <Accordion.Title>Ver información</Accordion.Title>
-                                    <Accordion.Content>
-                                    <p className="mb-2 text-gray-500 dark:text-gray-400">
-                                        {descripcionHotel}
-                                    </p>
-                                    </Accordion.Content>
-                                </Accordion.Panel>
-                            </Accordion>
-                        </div>
+                        <h5 className='mb-2 text-md font-bold tracking-tight text-gray-900 dark:text-white'>{nombreHotel}</h5>
+                        <p className='justify-center flex gap-2'><Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /> <Star color="#fad61e" strokeWidth={3} /></p>
                     </a>
-                    <div className='flex gap-5 text-center py-5 align-middle'>
-                        <p className='text-xl font-medium text-gray-400 line-through content-center hover:text-gray-600'>$<span>{precioHotel}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
-                        <p className='text-4xl font-bold text-blue-600 hover:text-blue-800 content-center'>$<span className='underline'>{precioDescuento}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
+                    <div className='py-5'>   
+                        <Accordion collapseAll={true}>
+                            <Accordion.Panel>
+                                <Accordion.Title>Ver información</Accordion.Title>
+                                <Accordion.Content>
+                                <p className="mb-2 text-gray-500 dark:text-gray-400">
+                                    {descripcionHotel}
+                                </p>
+                                </Accordion.Content>
+                            </Accordion.Panel>
+                        </Accordion>
                     </div>
-                    <div className='flex gap-2'>
+                    <div className='gap-5 text-center py-5 align-middle'>
+                        <p className='text-xl font-medium text-gray-400 line-through content-center hover:text-gray-600'><span>{precioHotel}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
+                        <p className='text-4xl font-bold text-blue-600 hover:text-blue-800 content-center'><span className='underline'>{precioDescuento}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
+                    </div>
+                    <div className='justify-center flex gap-2'>
                         <a href="/contacto" className='inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'>
                             Cotizar
                             <svg className='rtl:rotate-180 w-3.5 h-3.5 ms-2' aria-hidden='true' xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 14 10'>

@@ -18,6 +18,11 @@ export default function Contact() {
                     </div>
                 </Marquee>
             </div>
+            <section>
+                <div className='justify-center bg-white flex md:py-20'>
+                    <img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" />
+                </div>
+            </section>
             <div class="isolate bg-white px-6 py-24 sm:py-32 lg:px-8">
                 <div class="mx-auto max-w-2xl text-center">
                     <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Contactanos</h2>

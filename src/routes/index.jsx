@@ -20,12 +20,12 @@ export default function Index() {
                             <img className="w-20" src={LogoLuxury} alt="Logo Luxury" />
                             <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl text-white">Luxury Blue Travels</h1>
                                 <p className="max-w-2xl mb-6 font-light text-slate-100 lg:mb-8 md:text-lg lg:text-xl">Somos la empresa que estabas buscando, contamos con paquetes que se ajustan a tu beneficio</p>
-                                <a href="#" className="inline-flex bg-blue-600 text-white items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-slate rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
+                                <a href="/contacto" className="inline-flex bg-blue-600 text-white items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-slate rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
                                     Contactanos
                                     <svg className="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                                 </a>
-                                <a href="#" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-slate-100 border border-gray-300 rounded-lg hover:bg-gray-100 hover:text-slate-900 focus:ring-4 focus:ring-gray-100">
-                                    Ver destinos
+                                <a href="/hoteles" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-slate-100 border border-gray-300 rounded-lg hover:bg-gray-100 hover:text-slate-900 focus:ring-4 focus:ring-gray-100">
+                                    Ver hoteles
                                 </a> 
                         </div>
                         <div className="hidden lg:mt-0 lg:col-span-5 lg:flex lg:justify-end">
@@ -55,6 +55,11 @@ export default function Index() {
                         <p><PlaneTakeoff color="#4460EF" size={70} /></p>
                         <p className="font-bold text-blue-600">Vuelos incluidos <br /> <span className="font-light text-slate-900">Muchos de nuestros paquetes cuentan con vuelos incluidos, puedes consultar con los asesores que convenios tenemos</span></p>
                     </div>
+                </div>
+            </section>
+            <section>
+                <div className='justify-center flex md:py-20'>
+                    <img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" />
                 </div>
             </section>
             <section>

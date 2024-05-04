@@ -14,11 +14,20 @@ export default function Contact() {
 
   const filterHoteles = (destino) => {
     const hoteles = destino.hoteles || [];
-    setFilteredHoteles(hoteles.map(hotel => ({
-      ...hotel,
+    setFilteredHoteles(hoteles.map(hotel => {
       // Añadir 1000 al precio y convertirlo a un entero
-      precio: parseInt(hotel.precio.replace('$', '').replace(',', '')) + 1000
-    })));
+      const precio = parseInt(hotel.precio.replace('$', '').replace(',', '')) + 1000;
+      // Formatear el precio según la configuración regional
+      const precioFormateado = precio.toLocaleString('es-MX', {
+        style: 'currency',
+        currency: 'MXN'
+      });
+
+      return {
+        ...hotel,
+        precio: precioFormateado
+      };
+    }));
   };
 
   const handleDestinoClick = (destino) => {
@@ -47,13 +56,15 @@ export default function Contact() {
             <p className="text-2xl font-bold text-white">LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL • LUXURY BLUE TRAVEL •</p>
           </div>
         </Marquee>
-       
+        <div className='justify-center flex md:py-20'>
+          <a className='text-center' href="/ofertas"><img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" /></a>
+        </div>
         <div>
-          <div className="grid md:grid-rows-3 md:grid-flow-col md:gap-10 justify-center">
+          <div className="md:px-20 grid md:grid-cols-4 md:grid-flow-row md:gap-10 justify-items-center">
             {filteredHoteles.map((hotel, index) => (
               <div className='md:hover:scale-105 md:hover:duration-300 md:hover:ease-in-out' key={index}>
                 {/* Pasar el precio modificado al componente CardHotel */}
-                <CardHotel key={index} imageHotel={hotel.url} nombreHotel={hotel.nombre2} precioHotel={`$${hotel.precio}`} />
+                <CardHotel key={index} imageHotel={hotel.url} nombreHotel={hotel.nombre2} precioHotel={hotel.precio} descripcionHotel={hotel.descripcion2}  />
               </div>
             ))}
           </div>

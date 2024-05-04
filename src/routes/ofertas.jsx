@@ -14,11 +14,39 @@ export default function Contact() {
 
   const filterHoteles = (destino) => {
     const hoteles = destino.hoteles || [];
-    setFilteredHoteles(hoteles.map(hotel => ({
-      ...hotel,
+    setFilteredHoteles(hoteles.map(hotel => {
       // Convertir el precio a un entero antes de realizar operaciones
-      precio: parseInt(hotel.precio.replace('$', '').replace(',', ''))
-    })));
+      const precio = parseInt(hotel.precio.replace('$', '').replace(',', ''));
+      // Calcular el precio con descuento del 30%
+      const precioDescuento = precio - 6000;
+      // Sumar 6000 al precio original
+      const precioConIncremento = precio + 6000;
+      // Formatear el precio original según la configuración regional
+      const precioFormateado = precio.toLocaleString('es-MX', {
+        style: 'currency',
+        currency: 'MXN'
+      });
+      // Formatear el precio con descuento según la configuración regional
+      const precioDescuentoFormateado = precioDescuento.toLocaleString('es-MX', {
+        style: 'currency',
+        currency: 'MXN'
+      });
+      // Formatear el precio con incremento según la configuración regional
+      const precioConIncrementoFormateado = precioConIncremento.toLocaleString('es-MX', {
+        style: 'currency',
+        currency: 'MXN'
+      });
+
+      return {
+        ...hotel,
+        precio,
+        precioFormateado,
+        precioDescuento,
+        precioDescuentoFormateado,
+        precioConIncremento,
+        precioConIncrementoFormateado
+      };
+    }));
   };
 
   const handleDestinoClick = (destino) => {
@@ -47,18 +75,22 @@ export default function Contact() {
             <p className="text-2xl font-bold text-white">OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • OFERTAS • </p>
           </div>
         </Marquee>
+
+        <div className='justify-center flex md:py-20'>
+          <img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" />
+        </div>
        
         <div className='py-10'>
-          <div className="grid md:grid-rows-3 md:grid-flow-col md:gap-10 justify-center">
+          <div className="grid md:grid-cols-4 md:grid-flow-row md:gap-10 justify-items-center">
             {filteredHoteles.map((hotel, index) => (
               <div className='md:hover:scale-105 md:hover:duration-300 md:hover:ease-in-out py-5' key={index}>
                 {/* Realizar operaciones aritméticas dentro del map */}
                 <CardHotelOfertas 
                   imageHotel={hotel.url} 
                   nombreHotel={hotel.nombre2} 
-                  precioHotel={hotel.precio + 6000} 
-                  precioDescuento={hotel.precio - 6000} 
-                  descripcionHotel={hotel.descripcion2} 
+                  precioHotel={hotel.precioDescuentoFormateado} 
+                  precioDescuento={hotel.precioFormateado} 
+                  descripcionHotel={hotel.descripcion2}
                 />
               </div>
             ))}

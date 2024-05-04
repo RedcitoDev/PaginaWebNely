@@ -25,23 +25,11 @@ export default function Root() {
                 </div>
                 <div className="navbar-center hidden lg:flex text-blue-600 z-50">
                     <ul className="menu menu-horizontal px-1">
-                    <li className="hover:underline hover:font-medium"><a href="/ofertas">Ofertas</a></li>
+                    <li className="hover:underline md:text-2xl font-bold hover:font-extrabold"><a href="/ofertas">Ofertas</a></li>
                     <li>
-                        <details>
-                        <summary className="hover:underline hover:font-medium">Destinos</summary>
-                        <ul className="p-2 bg-white rounded-none w-[190px] rounded-b-2xl">
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Cancún</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Riviera Maya</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Los Cabos</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Puerto Vallarta</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Mazatlán</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Ixtapa Zihuatanejo</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Acapulco</a></li>
-                            <li><a href={`/hoteles`}><TreePalm size={20} color="#4460EF" /> Huatulco</a></li>
-                        </ul>
-                        </details>
+                        <a className="hover:underline md:text-2xl font-bold" href="/hoteles">Hoteles</a>
                     </li>
-                    <li className="hover:underline hover:font-medium"><a href={`/contacto`}>Contacto</a></li>
+                    <li className="hover:underline md:text-2xl font-bold hover:font-extrabold"><a href={`/contacto`}>Contacto</a></li>
                     </ul>
                 </div>
                 <div className="navbar-end">
