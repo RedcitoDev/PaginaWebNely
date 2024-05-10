@@ -30,8 +30,8 @@ const CardHotelOfertas = ({imageHotel, nombreHotel, precioHotel, descripcionHote
                         </Accordion>
                     </div>
                     <div className='gap-5 text-center py-5 align-middle'>
-                        <p className='text-xl font-medium text-gray-400 line-through content-center hover:text-gray-600'><span>{precioHotel}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
-                        <p className='text-4xl font-bold text-blue-600 hover:text-blue-800 content-center'><span className='underline'>{precioDescuento}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
+                        <p className='text-xl font-medium text-gray-400 line-through content-center hover:text-gray-600'><span>{precioDescuento}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
+                        <p className='text-4xl font-bold text-blue-600 hover:text-blue-800 content-center'><span className='underline'>{precioHotel}</span> <span className='text-sm font-regular no-underline'>MXN</span></p>
                     </div>
                     <div className='justify-center flex gap-2'>
                         <a href="/contacto" className='inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'>

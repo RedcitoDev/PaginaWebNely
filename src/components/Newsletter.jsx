@@ -7,11 +7,11 @@ export default function Example() {
           <div className="max-w-xl lg:max-w-lg">
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">¿Buscas alguna promocion?.</h2>
             <p className="mt-4 text-lg leading-8 text-gray-300">
-              Nosotros te podemos ayudar, ya sea que te contactes por los medios indicados, o nos dejes tu correo electronico para contactarte.
+              Estamos a tu disposición para brindarte asistencia. Puedes comunicarte con nosotros a través de los medios indicados o dejarnos tu correo electrónico para que podamos contactarte.
             </p>
             <div className="mt-6 flex gap-x-4">
               <label htmlFor="email-address" className="sr-only">
-                Correo Electronico
+                Correo Electrónico
               </label>
               <input
                 id="email-address"

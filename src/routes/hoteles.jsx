@@ -37,7 +37,7 @@ export default function Contact() {
   return (
     <section>
       <div className="bg-fixed bg-no-repeat bg-bottom text-center bg-[url('https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')]">
-        <div className="py-40 px-40 ">
+        <div className="md:py-40 md:px-40 ">
           <h1 className="text-4xl font-black text-white">Hoteles</h1>
           <h1 className="text-xl font-light text-white">Aquí podrás ver un poco de los hoteles que tenemos para ti</h1>
         </div>
@@ -57,10 +57,10 @@ export default function Contact() {
           </div>
         </Marquee>
         <div className='justify-center flex md:py-20'>
-          <a className='text-center' href="/ofertas"><img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" /></a>
+          <img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" />
         </div>
         <div>
-          <div className="md:px-20 grid md:grid-cols-4 md:grid-flow-row md:gap-10 justify-items-center">
+          <div className="md:px-20 flex flex-wrap justify-center items-center gap-10">
             {filteredHoteles.map((hotel, index) => (
               <div className='md:hover:scale-105 md:hover:duration-300 md:hover:ease-in-out' key={index}>
                 {/* Pasar el precio modificado al componente CardHotel */}

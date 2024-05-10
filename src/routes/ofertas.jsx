@@ -80,8 +80,8 @@ export default function Contact() {
           <img className='hidden rounded-3xl shadow hover:shadow-2xl hover:duration-300 hover:ease-in-out md:inline-flex w-[50%]' src="https://luxurybluetravel.com/banners/ofertas.png" alt="banner-promociones-hoteles" />
         </div>
        
-        <div className='py-10'>
-          <div className="grid md:grid-cols-4 md:grid-flow-row md:gap-10 justify-items-center">
+        <div className='py-10 md:px-12'>
+          <div className="flex flex-wrap justify-center items-center gap-10">
             {filteredHoteles.map((hotel, index) => (
               <div className='md:hover:scale-105 md:hover:duration-300 md:hover:ease-in-out py-5' key={index}>
                 {/* Realizar operaciones aritméticas dentro del map */}
